@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Alle vragen en antwoorden
-permalink: /
 ---
 
 ### Hallo, ik heb iets gehoord over Burgerlijsten en ben op deze site terechtgekomen. Kan ik hier wat meer informatie vinden?
