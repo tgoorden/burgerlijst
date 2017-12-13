@@ -10,13 +10,13 @@ Om de vraag: werkt dit in de praktijk in een keer te beantwoorden: ja! In steeds
 
 ### Of hoe een handvol mensen in het Engelse Frome een internationale beweging op gang bracht
  
-Toen Peter Mcfadyan geen afdoend antwoord kreeg van zijn lokaal bestuur op een nochtans eenvoudige vraag, wist hij niet dat hij in wat volgde een hele beweging op gang zou brengen. We schrijven 2011 wanneer een handvol burgers het heft in eigen handen neemt en de lokale bevolking warm maakt voor een vernieuwend project: uitklapdemocratie (of: Flatpack democracy).
+Toen Peter Macfadyen geen afdoend antwoord kreeg van zijn lokaal bestuur op een nochtans eenvoudige vraag, wist hij niet dat hij in wat volgde een hele beweging op gang zou brengen. We schrijven 2011 wanneer een handvol burgers het heft in eigen handen neemt en de lokale bevolking warm maakt voor een vernieuwend project: uitklapdemocratie (of: Flatpack democracy).
 In lokale cafés komen burgers bij elkaar om te bespreken hoe het anders kan na jaren van stugge partijpolitieke vertegenwoordiging. De independents for Frome (ifF) zijn geboren.
 Het project kan op overweldigende steun rekenen in de verkiezingen van 2011. Maar liefst 10 van de 17 zetels gaan naar ifF. Kan het nog gekker? Ja hoor, dankzij hun inclusieve werk en de vernieuwende projecten halen ze in 2015 àlle zetels binnen.
 Hun verwezenlijkingen? Die leggen ze zelf het best uit in [dit filmpje](https://www.youtube.com/watch?v=pMEDVG8237s).
  
 Intussen groeit de lijst van Britse voorbeelden gestaag: Bath, Sutton, Winchester,…
-Wil je meer weten? Mcfadyan schreef zelf een doe-het-zelf-boek met de gebeurtenissen in Frome als leidraad. De passende titel: [Flatpack Democracy](http://www.flatpackdemocracy.co.uk/thebook/).
+Wil je meer weten? Macfadyen schreef zelf een doe-het-zelf-boek met de gebeurtenissen in Frome als leidraad. De passende titel: [Flatpack Democracy](http://www.flatpackdemocracy.co.uk/thebook/).
  
 ## En bij ons?
 
