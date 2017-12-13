@@ -23,7 +23,7 @@ Wil je meer weten? Macfadyen schreef zelf een doe-het-zelf-boek met de gebeurten
 ### Heel wat burgerinitiatieven lopen warm voor oktober 2018
  
 De komende maanden verwachten we dat nog veel burgerlijsten in steden en gemeenten naar buiten zullen komen.
-Eentje die zich al wel volop in de verkiezingsstrijd mengt is De burgers van Grobbendonk & Bouwel. In september 2017 zorgden ze voor een politieke aardverschuiving in de gemeente toen 2 leden van het college en een gemeenteraadslid, uit 3 verschillende politieke fracties, hun partij aflegden. Het startschot voor burgerparticipatie in hun gemeente, weg van partijpolitieke spelletjes en afspraken.
+Eentje die zich al  volop in de verkiezingsstrijd mengt is 'De burgers van Grobbendonk & Bouwel'. In september 2017 zorgden ze voor een politieke aardverschuiving in de gemeente toen 2 leden van het college en een gemeenteraadslid, uit 3 verschillende politieke fracties, hun partij aflegden. Het startschot voor burgerparticipatie in hun gemeente, weg van partijpolitieke spelletjes en afspraken.
 Ben je benieuwd naar hun manier van werken? Loop zeker eens binnen bij een van hun [burgercafés](http://deburgers.be/).
 
 Ook in [Brussel](https://medium.com/@webrussels) zijn ze van start gegaan.
