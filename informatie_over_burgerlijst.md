@@ -43,7 +43,7 @@ Daarom organiseerden ze in juni 2016 de Antwerpse Burgerraad versie 0/Bèta/… 
  
 Fast forward naar december van dat jaar.
 Intussen was de Burgerraad klaar voor een echte aftrap. Vanaf januari 2017 is (na wat zoeken) de zondag voor de gemeenteraadscommissies traditioneel het moment waarop iedereen die dat wil, mee kan komen praten over de gemeenteraadsbesluiten van die maand.
-Maar ook de Burgerlijst kreeg vorm. Sneller dan verwacht kwam de Burgerlijst eind december 2016 naar buiten als reactie op de plannen rond het Antwerps links kartel (of was het beweging?). Onafhankelijken die een plaats krijgen op de lijst van 2 partijen? Euh, onderschrijven zij dan geen partijprogramma? En hoe onafhankelijk zijn die na de verkiezingen? En wie gaat beslissen waar ze terechtkomen op de lijst? Tijd om te laten zien wat onafhankelijke, partijloze politiek is. De Burgerlijst dus, in de media en al!
+Maar ook de Burgerlijst kreeg vorm. Het idee om in Antwerpen een gelijkaardig initiatief als in Frome te lanceren als antwoord op het klassieke getouwtrek en gekibbel tussen partijen lag eind december 2016 op tafel. De Burgerlijst dus, [in de media en al](https://www.demorgen.be/politiek/weg-met-partijpolitiek-deze-man-lanceert-antwerpse-burgerlijst-alles-begint-en-eindigt-met-inspraak-b51d1160/)!
  
 Intussen zijn de ideeën gerijpt, ontstaan er in andere dorpen en steden steeds meer [burgerinitiatieven](https://www.apache.be/2017/11/02/burgerbewegingen-wie-verkiezingen-wint-moet-er-rekening-mee-houden/?sh=8bad7c53530fce937ca79-1321974913) en krijgen burgerbewegingen vaker een voet tussen de deur van het besluitvormingsproces. Het moment is er, nu wij nog. En wij, dat is vanaf nu iedereen in Antwerpen die mee wil doen.
  
