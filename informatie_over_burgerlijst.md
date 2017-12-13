@@ -29,11 +29,6 @@ Eentje die zich al  volop in de verkiezingsstrijd mengt is 'De burgers van Grobb
 Ben je benieuwd naar hun manier van werken? Loop zeker eens binnen bij een van hun [burgercafés](http://deburgers.be/).
 
 Ook in [Brussel](https://medium.com/@webrussels) zijn ze van start gegaan.
- 
-## En jij?
-Zin om in Antwerpen mee te doen? Of wil je zelf een initiatief starten in je gemeente? Geef ons een seintje, misschien kennen we iemand in je buurt met hetzelfde idee.
- 
-(Maak van jouw gemeente ook eentje waar iedereen meedoet)
 
 # Hoe het begon
 
@@ -49,7 +44,7 @@ Maar ook de Burgerlijst kreeg vorm. Het idee om in Antwerpen een gelijkaardig in
  
 Intussen zijn de ideeën gerijpt, ontstaan er in andere dorpen en steden steeds meer [burgerinitiatieven](https://www.apache.be/2017/11/02/burgerbewegingen-wie-verkiezingen-wint-moet-er-rekening-mee-houden/?sh=8bad7c53530fce937ca79-1321974913) en krijgen burgerbewegingen vaker een voet tussen de deur van het besluitvormingsproces. Het moment is er, nu wij nog. En wij, dat is vanaf nu iedereen in Antwerpen die mee wil doen.
  
-(doe mee) link naar kandidaat stelling?
+[Doe mee!](http://burgerlijst.be/doe_mee.html)
 
 # FAQ
 
@@ -69,7 +64,7 @@ Voorlopig richt de Burgerlijst zich in eerste instantie op de gemeenteraad van d
 In 2019 zijn er Vlaamse verkiezingen. Het is niet uitgesloten dat er een burgerbeweging in Vlaanderen mee zal doen aan die verkiezingen. Met de Burgerlijst zullen we dan ook wel eens bekijken wat we ermee kunnen doen. Maar laten we ons eerst concentreren op oktober 2018.
 
 ## Ik woon in een gemeente buiten Antwerpen. Hoe kom ik te weten of er in mijn gemeente gelijkaardige initiatieven zijn?
-We proberen op de site [gekende initiatieven](http://burgerlijst.be/gelijkaardige_initiatieven) op te lijsten. Maar het kan zijn dat er bewegingen onder onze radar blijven. Een korte zoektocht op google of sociale media kan al voldoende zijn om ze te vinden. Als je een beweging vindt, laat je het ons dan ook weten? Dan kunnen we die meteen toevoegen aan de lijst.
+We proberen op de site [gekende initiatieven](http://burgerlijst.be/gelijkaardige_initiatieven.html) op te lijsten. Maar het kan zijn dat er bewegingen onder onze radar blijven. Een korte zoektocht op google of sociale media kan al voldoende zijn om ze te vinden. Als je een beweging vindt, laat je het ons dan ook weten? Dan kunnen we die meteen toevoegen aan de lijst.
 
 ## Kan ik zelf een burgerlijst-initiatief opstarten?
 Dat kan zeker. Om een lijst in te dienen heb je enkele handtekeningen nodig van burgers (aantal is afhankelijk van grootte van de gemeente) of van een uittredend gemeenteraadslid en personen om op de lijst te staan. Dan ben je al in orde. Maar natuurlijk is het meer werk dan dat. Je moet voldoende vrijwilligers hebben en een werkwijze uitwerken die past bij je gemeente. De info op onze website kan je al op weg helpen. Je mag ons ook steeds een [mailtje sturen](mailto:info@burgerlijst.be). We kunnen maar leren van elkaar.
