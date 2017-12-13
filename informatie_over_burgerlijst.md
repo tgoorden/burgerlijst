@@ -52,7 +52,7 @@ Intussen zijn de ideeën gerijpt, ontstaan er in andere dorpen en steden steeds 
 # FAQ
 
 ## Er zijn al veel burgerbewegingen in Antwerpen. Wat maakt de Burgerlijst dan bijzonder?
-De burgerbewegingen die er nu zijn focussen sterk op telkens 1 thema of op een beperkt domein. Kort door de bocht zou je kunnen zeggen dat de beweging iets wil en daarvoor gaat lobbyen of druk zetten. Dit wil zeggen dat ze nooit echt een bevoegdheid hebben. Met de Burgerlijst willen we de stem van de burgers introduceren in de officiële besluitvorming. Niet enkel door de inwoners om de 6 jaar naar het stemhokje te sturen, zoals nu gebeurt, maar door tussentijds regelmatig overleg te hebben met de betrokkenen. Zo kunnen ideeën die vanuit de burgers komen aan bod komen in het besturen van de stad. Dit doen we dan via de verkozenen die net verkozen werden om de burgers te betrekken bij de besluitvorming.
+De burgerbewegingen die er nu zijn focussen sterk op telkens 1 thema of op een beperkt domein. Kort door de bocht zou je kunnen zeggen dat de beweging iets wil en daarvoor gaat lobbyen of druk zetten. Dit wil zeggen dat ze nooit echt een bevoegdheid hebben. Met de Burgerlijst willen we de stem van de burgers introduceren in de officiële besluitvorming. Niet enkel door de inwoners om de 6 jaar naar het stemhokje te sturen, zoals nu gebeurt, maar door tussentijds regelmatig overleg te hebben met de betrokkenen. Zo kunnen ideeën van burgers aan bod komen in het besturen van de stad. Dit doen we dan via de verkozenen die het betrekken van burgers bij de besluitvorming als taak hebben.
 
 ## Wat wordt er bedoeld met conflictvrij?
 Het huidige democratische systeem met partijen is gebaseerd op conflict. De partijen zijn concurrenten van elkaar en ze nemen elke poging aan om elkaar de loef af te steken. De Burgerlijst wil deze dynamiek doorbreken. Er kan gedebatteerd worden en men zal verschillende opvattingen hebben, maar ieders doel is hetzelfde: een goed bestuur van de stad. Geen partijbelangen dus.
@@ -61,13 +61,13 @@ Het huidige democratische systeem met partijen is gebaseerd op conflict. De part
 Dat we het nog niet weten. Ze zullen het initiatief niet allemaal op applaus onthalen, zeker niet als ze denken stemmen te kunnen verliezen. Wanneer we een antwoord op deze vraag hebben, zullen we het hier posten.
 
 ## Waarom komt de Burgerlijst niet op in de districten?
-Voorlopig richt de Burgerlijst zich in eerste instantie op de gemeenteraad van de stad Antwerpen. Daar zitten veruit de meeste bevoegdheden. Afhankelijk van het aantal aanmeldingen kan opkomen in de districten ook een optie zijn.
+Voorlopig richt de Burgerlijst zich in eerste instantie op de gemeenteraad van de stad Antwerpen. Daar zitten veruit de meeste bevoegdheden. Afhankelijk van het aantal aanmeldingen is opkomen in de districten een optie.
 
 ## En op Vlaams niveau dan?
 In 2019 zijn er Vlaamse verkiezingen. Het is niet uitgesloten dat er een burgerbeweging in Vlaanderen mee zal doen aan die verkiezingen. Met de Burgerlijst zullen we dan ook wel eens bekijken wat we ermee kunnen doen. Maar laten we ons eerst concentreren op oktober 2018.
 
 ## Ik woon in een gemeente buiten Antwerpen. Hoe kom ik te weten of er in mijn gemeente gelijkaardige initiatieven zijn?
-We proberen op de site gekende initiatieven op te lijsten [Link]. Maar het kan zijn dat er bewegingen onder onze radar blijven. Een korte zoektocht op google of sociale media kan al voldoende zijn om het te vinden. Als je een beweging vindt, laat je het ons dan ook weten? Dan kunnen we die meteen toevoegen aan de lijst.
+We proberen op de site [gekende initiatieven](http://burgerlijst.be/gelijkaardige_initiatieven) op te lijsten. Maar het kan zijn dat er bewegingen onder onze radar blijven. Een korte zoektocht op google of sociale media kan al voldoende zijn om het te vinden. Als je een beweging vindt, laat je het ons dan ook weten? Dan kunnen we die meteen toevoegen aan de lijst.
 
 ## Kan ik zelf een burgerlijst-initiatief opstarten?
 Dat kan zeker. Om een lijst in te dienen heb je enkele handtekeningen nodig van burgers (aantal is afhankelijk van grootte van de gemeente) of van een uittredend gemeenteraadslid en personen om op de lijst te staan. Dan ben je al in orde. Maar natuurlijk is het meer werk dan dat. Je moet voldoende vrijwilligers hebben en een werkwijze uitwerken die past bij je gemeente. De info op onze website kan je al op weg helpen. Je mag ons ook steeds een [mailtje sturen](mailto:info@burgerlijst.be). We kunnen maar leren van elkaar.
