@@ -2,10 +2,6 @@
 layout: default
 titel: Democratische eed
 ---
-# Democratische eed
-
-[test](#test)
-
 Ik verklaar en onderschrijf deze eed te zullen aanhouden met het beste van mijn vermogen gedurende de volledige duur van mijn politieke kandidatuur en alle daaruit voortvloeiende ambt(en):
 
 1. Ik zal de reeds bestaande democratische verworvenheden respecteren en verbeteren en mijn kennis en ervaringen delen met diegenen die mij zullen volgen.
@@ -20,6 +16,6 @@ Ik verklaar en onderschrijf deze eed te zullen aanhouden met het beste van mijn 
 10. Ik stel daden die een reële impact hebben op mensenlevens. Mijn verantwoordelijkheden omvatten dan ook alle neveneffecten die voortvloeien uit mijn handelingen.
 11. Ik zal onder geen enkele omstandigheden wetten uitvaardigen die invloed hebben op het politieke beslissingsproces zelf, politieke ambtstermijnen of vergoedingen zonder een expliciet door burgers gestemde goedkeuring.
 12. Ik zal politiek bedrijven met het oog op de verdere toekomst van de mensheid, waarbij een betere leefwereld voor de volgende generaties steeds voorrang krijgt op korte termijn voordeel voor deze.
-13. <a name="test"/>Indien ik - onder druk of op eender welke wijze - niet kan voldoen aan deze eed, dan zal ik op eervolle wijze ontslag nemen uit mijn politieke ambt of mijn kandidaatstelling opgeven, eerder dan afbreuk te doen aan deze democratische principes.
+13. Indien ik - onder druk of op eender welke wijze - niet kan voldoen aan deze eed, dan zal ik op eervolle wijze ontslag nemen uit mijn politieke ambt of mijn kandidaatstelling opgeven, eerder dan afbreuk te doen aan deze democratische principes.
 
 Door het aanvaarden en uitvoeren van deze eed, werk ik mee aan het eerherstel van het politieke ambt en zal ik de voortdurende dankbaarheid van de burgers die ik vertegenwoordig bekomen.
