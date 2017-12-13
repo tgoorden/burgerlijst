@@ -1,3 +1,7 @@
+---
+layout: default
+titel: Democratische eed
+---
 # Democratische eed
 
 [test](#test)
