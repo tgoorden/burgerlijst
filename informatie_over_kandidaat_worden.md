@@ -46,7 +46,7 @@ Wanneer de Burgerlijst verkozenen heeft in de gemeenteraad dan zullen zij zelf d
 # FAQ
 
 ## Gaan de verkozenen wel doen wat gevraagd is?
-Wettelijk kan je verkozenen nergens toe dwingen en “partijdiscipline” klinkt sowieso fout, toch? Maar de kandidaten worden zorgvuldig uitgekozen en zo goed mogelijk voorbereid. Bovendien vragen we ze een democratische eed [link] te zweren en te ondertekenen.
+Wettelijk kan je verkozenen nergens toe dwingen en “partijdiscipline” klinkt sowieso fout, toch? Maar de kandidaten worden zorgvuldig uitgekozen en zo goed mogelijk voorbereid. Bovendien vragen we ze een [democratische eed](http://burgerlijst.be/democratische_eed.html) te zweren en te ondertekenen.
 
 ## Kan een verkozene in het schepencollege terecht komen?
 Dat is mogelijk. Alles hangt dan af van welke meerderheidscoalitie er gevormd wordt. In de meerderheid stappen en eventueel een schepen afleveren behoort dus tot de mogelijkheden.
