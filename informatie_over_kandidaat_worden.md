@@ -1,6 +1,7 @@
 ---
 layout: page
 titel: Meer informatie over kandidaat worden
+footer: true
 ---
 # Voor de verkiezingen
 
