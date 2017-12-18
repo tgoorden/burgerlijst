@@ -49,6 +49,7 @@ footer {
    height: $footer-height;
    background-color: #222;
    color: white;
+   padding-top: 60px; 
    a, a:hover {
       color: white;
    }
@@ -58,4 +59,16 @@ footer {
    path {
       fill: white;
    }  
+}
+
+#menu {
+   .social-icons {
+      ul {
+         list-style-type: none;
+         padding-left: 0;
+         li {
+            display: inline;
+         }
+      }
+   }
 }
