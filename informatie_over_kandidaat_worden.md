@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 titel: Meer informatie over kandidaat worden
 ---
 # Voor de verkiezingen

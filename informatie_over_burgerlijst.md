@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 titel: Meer weten over de Burgerlijst
 ---
 # Visie
