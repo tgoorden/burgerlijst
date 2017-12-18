@@ -1,6 +1,7 @@
 ---
-layout: default
-titel: Democratische eed
+layout: page
+title: Democratische eed 
+permalink: /eed/
 ---
 Ik verklaar en onderschrijf deze eed te zullen aanhouden met het beste van mijn vermogen gedurende de volledige duur van mijn politieke kandidatuur en alle daaruit voortvloeiende ambt(en):
 

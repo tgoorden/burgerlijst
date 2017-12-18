@@ -1,3 +1,28 @@
 <a href="/" alt="Homepagina">
    <img src="/assets/img/logo.svg" id="#logo" alt="Logo Burgerlijst"/>
 </a>
+<div id="baseline">
+   {{ site.description }}
+</div>
+<div class="social-icons">
+  <ul class="social-icons">
+    {% if site.twitter_username %}
+    <li>
+      <a href="https://twitter.com/{{ site.twitter_username }}">
+        <span class="icon icon-social">
+           {% include _twitter.html %}
+        </span>
+      </a>
+    </li>
+    {% endif %}
+    {% if site.facebook_username %}
+    <li>
+      <a href="https://facebook.com/{{ site.facebook_username }}">
+        <span class="icon icon-social">
+          {% include _facebook.html %}               
+        </span>
+      </a>
+    </li>
+    {% endif %}
+  </ul>
+</div>

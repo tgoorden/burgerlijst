@@ -1,6 +1,6 @@
 ---
-layout: default
-titel: De Universele Verklaring van de Rechten van de Mens
+layout: page
+titel: Rechten van de Mens
 ---
 Dit is een vereenvoudigde versie van De Universele Verklaring van de Rechten van de Mens. De volledige versie vind je [hier](https://www.amnesty-international.be/subthema/universele-verklaring-van-de-rechten-van-de-mens-volledige-versie/842).
 

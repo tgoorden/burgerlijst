@@ -1,6 +1,7 @@
 ---
 layout: page
-titel: Meer weten over de Burgerlijst
+title: Info over Burgerlijst
+footer: true 
 ---
 # Visie
 De Burgerlijst geeft burgers de macht om beslissingen te nemen over hun stad. We streven naar een stadsbestuur dat conflictvrij aan besluitvorming doet. Een bestuur waar iedereen aan kan meewerken. Waar ontmoeting centraal staat. De Burgerlijst werkt aan een transparante stad waarin eerlijke, slimme beslissingen worden genomen. We zijn volledig onafhankelijk van de belangen van partijpolitiek. De Burgerlijst brengt de democratie in een stroomversnelling.
