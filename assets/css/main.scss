@@ -77,3 +77,14 @@ footer {
       text-decoration: underline;
    }
 }
+
+/* Form layout */
+form label {
+   font-weight: 600;
+}
+form label > input {
+   padding-left: 1em;
+}
+form p > input {
+   width: 100%;
+}

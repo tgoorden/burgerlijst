@@ -1,0 +1,68 @@
+---
+layout: page
+title: Inschrijvingsformulier
+footer: true
+---
+
+form.validate(action='https://burgerraad.us14.list-manage.com/subscribe/post?u=7df915afab7e14d9a63aa05d3&id=f77dbf315c', method='post', name='mc-embedded-subscribe-form', target='_blank', novalidate='')
+   h2 Interesse in de Burgerlijst? Meld je hier aan.
+   p Merk op dat je niet automatisch kandidaat bent. Je hoeft dit pas over een maand (of langer) definitief te beslissen. En ook niet elke kandidaat kan of hoeft persé op een lijst te staan, ook dat kan je later nog beslissen. Je inschrijving blijft sowieso privé tot je officieel beslist hebt kandidaat te worden.
+   p * zijn verplichte velden
+   p
+     label(for='mce-FNAME')
+       | Voornaam  
+       span.asterisk *
+     input#mce-FNAME.required(type='text', value='', name='FNAME')
+   p
+     label(for='mce-LNAME')
+       | Naam  
+       span.asterisk *
+     input#mce-LNAME.required(type='text', value='', name='LNAME')
+   p
+     label(for='mce-EMAIL')
+       | Email  
+       span.asterisk *
+     input#mce-EMAIL.required.email(type='email', value='', name='EMAIL')
+   p
+     label(for='mce-MMERGE3')
+       | Postcode  
+       span.asterisk *
+     input#mce-MMERGE3.required(type='text', value='', name='MMERGE3')
+   p
+     label
+         input(type='checkbox', value='1', name='group[4719][1]', id='mce-group[4719]-4719-0')
+         | Ik ben 18 jaar of ouder op 14 oktober 2018 en kan dus eventueel deelnemen op de kieslijst.
+   #mce-responses.clear
+     #mce-error-response.response(style='display:none')
+     #mce-success-response.response(style='display:none')
+   // real people should not fill this in and expect good things - do not remove this or risk form bot signups
+   div(style='position: absolute; left: -5000px;', aria-hidden='true')
+     input(type='text', name='b_7df915afab7e14d9a63aa05d3_f77dbf315c', tabindex='-1', value='')
+   .clear
+     input#mc-embedded-subscribe.button(type='submit', value='Inschrijven', name='subscribe')
+script(type='text/javascript', src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js')
+script(type='text/javascript').
+  (function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[0]='EMAIL';ftypes[0]='email';fnames[3]='MMERGE3';ftypes[3]='text'; /*
+  * Translated default messages for the $ validation plugin.
+  * Locale: NL
+  */
+  $.extend($.validator.messages, {
+  required: "Dit is een verplicht veld.",
+  remote: "Controleer dit veld.",
+  email: "Vul hier een geldig e-mailadres in.",
+  url: "Vul hier een geldige URL in.",
+  date: "Vul hier een geldige datum in.",
+  dateISO: "Vul hier een geldige datum in (ISO-formaat).",
+  number: "Vul hier een geldig getal in.",
+  digits: "Vul hier alleen getallen in.",
+  creditcard: "Vul hier een geldig creditcardnummer in.",
+  equalTo: "Vul hier dezelfde waarde in.",
+  accept: "Vul hier een waarde in met een geldige extensie.",
+  maxlength: $.validator.format("Vul hier maximaal {0} tekens in."),
+  minlength: $.validator.format("Vul hier minimaal {0} tekens in."),
+  rangelength: $.validator.format("Vul hier een waarde in van minimaal {0} en maximaal {1} tekens."),
+  range: $.validator.format("Vul hier een waarde in van minimaal {0} en maximaal {1}."),
+  max: $.validator.format("Vul hier een waarde in kleiner dan of gelijk aan {0}."),
+  min: $.validator.format("Vul hier een waarde in groter dan of gelijk aan {0}.")
+  });}(jQuery));var $mcj = jQuery.noConflict(true);
+
