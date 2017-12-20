@@ -2,3 +2,4 @@ _site
 s3_website.yml
 posters
 node_modules
+.sass-cache
