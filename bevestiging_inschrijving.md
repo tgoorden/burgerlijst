@@ -29,7 +29,7 @@ Help de Burgerlijst hierbij, het is bijzonder belangrijk dat deze doelstelling l
 De opdracht is eenvoudig: Spreek mensen aan, die volgens jou perfecte kandidaten voor de Burgerlijst zouden zijn. Mensen uit de hele stad. Mensen voor wie participatie belangrijk is. Mensen die zich graag en veel inzetten of die het potentieel in zich dragen en - volgens jou - enkel een duwtje nodig hebben.
 
 Moedig potentiële kandidaten aan om zich in te schrijven op de website:
-(www.burgerlijst.be/interesse.html)[http://www.burgerlijst.be/interesse.html]
+[www.burgerlijst.be/interesse.html](http://www.burgerlijst.be/interesse.html)
 
 Merk op dat interesse in de Burgerlijst niet automatisch betekent dat je kandidaat moet worden. Je wordt eerst zo goed mogelijk geïnformeerd en moet pas dan definitief kiezen. Als je kandidaat bent, betekent dat ook niet dat je persé op een kieslijst moet of zal staan. Er is dus erg veel vrijheid onderweg om te kiezen wat voor jou haalbaar is. 
 

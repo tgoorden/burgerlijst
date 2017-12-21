@@ -33,6 +33,13 @@ div.highlight {
       color: white;
    }
 }
+
+.slogan {
+   h1, h2, h3 {
+      transform: skew(-6deg) rotate(-6deg);
+   }
+}
+
 html {
    position: relative;
    min-height: 100%;
