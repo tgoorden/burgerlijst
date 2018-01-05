@@ -28,3 +28,13 @@
     {% endif %}
   </ul>
 </div>
+<div id="sidemenu" class="hidden-sm-down">
+   {% assign menu_items = site.pages | sort: "menu_order" | where: "menu", true %}
+   <ul class="nav flex-column">
+      {% for item in menu_items %}
+      <li class="nav-item">
+         <a class="nav-link" href="{{ item.url }}">{{ item.menu_titel }}</a>
+      </li>
+      {% endfor %}
+   </ul>
+</div>

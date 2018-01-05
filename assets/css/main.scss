@@ -95,3 +95,18 @@ form label > input {
 form p > input {
    width: 100%;
 }
+
+/* Navigation */
+.nav-item {
+   font-family: $headings-font-family;
+   font-weight: 300;
+   a {
+      color: black;
+   }
+   a:hover {
+      text-decoration: underline;
+   }
+   .nav-link {
+      padding: 0;
+   }
+}

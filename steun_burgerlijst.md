@@ -2,6 +2,9 @@
 layout: page
 title: Steun de Burgerlijst
 footer: true
+menu: true
+menu_titel: Steun de Burgerlijst
+menu_order: 3
 --- 
 
 Een vernieuw de democratie komt niet vanzelf. Hiervoor zijn fondsen nodig, maar vooral ook mensen. We zijn altijd wel op zoek naar enthousiastelingen die kunnen helpen bij het uitpluizen van dossiers, organiseren van bijeenkomsten,... Wil je graag een bijdrage leveren aan een nieuwe politiek in Antwerpen, bekijk dan hier de opties.

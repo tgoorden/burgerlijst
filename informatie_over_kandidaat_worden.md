@@ -2,6 +2,9 @@
 layout: page
 titel: Meer informatie over kandidaat worden
 footer: true
+menu: true
+menu_titel: Over kandidaturen
+menu_order: 1
 ---
 # Voor de verkiezingen
 
