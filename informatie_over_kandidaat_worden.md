@@ -8,7 +8,7 @@ footer: true
 ## Zoektocht naar kandidaten
 Natuurlijk is het de bedoeling van de Burgerlijst dat er burgers op de lijst komen. We zoeken naar onafhankelijke burgers die mee de stad willen besturen door in de gemeenteraad te zetelen. Maar er is meer. Als verkozene van de Burgerlijst zetel je niet enkel in de commissies en gemeenteraad (zoals de klassieke partijen doen), maar ga je ook actief op zoek naar de mening van andere burgers.
  
-Het systeem van uitklapdemocratie vraagt een specifiek soort van gemeenteraadsleden. Je moet je minstens kunnen vinden in de [democratische eed](http://burgerlijst.be/democratische_eed.html) en akkoord gaan met de [universele rechten van de mens](http://burgerlijst.be/universele_rechten_van_mens.html). De kandidaten die uiteindelijk op de lijst terecht komen worden ook verwacht om deze beide documenten te ondertekenen en ernaar te handelen.
+Het systeem van uitklapdemocratie vraagt een specifiek soort van gemeenteraadsleden. Je moet je minstens kunnen vinden in de [democratische eed](http://www.burgerlijst.be/eed/) en akkoord gaan met de [universele rechten van de mens](http://burgerlijst.be/universele_rechten_van_mens.html). De kandidaten die uiteindelijk op de lijst terecht komen worden ook verwacht om deze beide documenten te ondertekenen en ernaar te handelen.
  
 Als je ons op de hoogte hebt gebracht van je interesse, nemen we contact met je op. We leren elkaar kennen en zorgen ervoor dat alles helder is. Ben je nog steeds geïnteresseerd? Dan word je een van de mogelijke kandidaten op de lijst. De bedoeling is zo veel mogelijk goede kandidaten te verzamelen, zodat we een lijst kunnen vormen die de stad goed vertegenwoordigt. Er zijn 56 zitjes in de gemeenteraad en dus mikken we op een lijst met 56 namen.
  
