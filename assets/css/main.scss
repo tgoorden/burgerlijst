@@ -24,6 +24,19 @@ div.regular {
    a {
       color: black;
    }
+   ul {
+      padding: 0;
+      list-style: none;
+      a {
+         text-decoration: underline;
+      }
+      li {
+         padding-bottom: 1em;
+      }
+      h4 {
+         line-height: 1;
+      }
+   }
 }
 
 div.highlight {

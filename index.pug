@@ -17,8 +17,22 @@ div.col-sm-12.col-md
       h2
          a(href="/kalender.html") Kalender
       ul
+         | {% assign events = site.events | sort: "date" %}
+         | {% for event in events %}
          li
-            a(href="https://docs.google.com/forms/d/e/1FAIpQLSf9wInJrajcr0iQGIYlmvvbmhmFB5fVTNLvi3bTqcAf30-6AQ/viewform") Donderdag 18/1/2018: Burgercafé
+            h4
+               a(href="{{ event.url }}") {{ event.title }}
+            | {{ event.date | date: "%d %b - %H:%M" }}
+            | {% if event.address %}
+            br
+            | @ 
+            a(href="{{ event.address }}") {{ event.location }}
+            | {% endif %}
+            | {% if event.registration %}
+            br
+            a(href="{{ event.registration }}") REGISTREER
+            | {% endif %}
+         | {% endfor %}
 
 div.col-sm-12.col-md
    div.regular#info-burgerlijst

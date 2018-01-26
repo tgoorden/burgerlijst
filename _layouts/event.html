@@ -1,0 +1,20 @@
+---
+layout: page
+---
+
+{{ content }}
+
+
+<hr>
+
+{% if page.date %}
+<p><label>Tijdstip:</label> {{ page.date | date: "%d %b %Y - %H:%M" }}</p>
+{% endif %}
+
+{% if page.location %}
+<p><label>Locatie:</label> {{ page.location }}</p> 
+{% endif %}
+
+{% if page.map %}
+<iframe src="{{ page.map }}" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+{% endif %}
