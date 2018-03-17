@@ -7,4 +7,4 @@ registration: https://docs.google.com/forms/d/e/1FAIpQLSf9wInJrajcr0iQGIYlmvvbmh
 map: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2501.292031806145!2d4.345895214972528!3d51.17684024264033!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c3f3fa1f96c183%3A0x5128d59a62935df1!2sGravenhof+Cultuur-en+jeugdcentrum!5e0!3m2!1snl!2sbe!4v1521291356213
 ---
 
-Welkom op ons [Burgercafé](/burgercafe)! Je komt er alles te weten over de Burgerlijst. Je vindt ons in Gravenhof in de Louisalei in Hoboken. 
+Welkom op ons [Burgercafé](/burgercafe)! Je komt er alles te weten over de Burgerlijst. Je vindt ons in Gravenhof in de Louisalei in Hoboken. We beginnen eraan rond 19u, maar later aansluiten is geen probleem.
