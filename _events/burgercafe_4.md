@@ -1,6 +1,6 @@
 ---
 title: "Burgercafé #9"
-date: 2018-03-22T19:00:00
+date: 2018-04-11T19:00:00
 location: "Cultureel ontmoetingscentrum Nova"
 address: https://www.google.be/maps/place/Nova+ontmoetingscentrum/@51.190793,4.3709443,17z/data=!3m1!4b1!4m5!3m4!1s0x47c3f6afea44e30b:0x380a88e03be5840!8m2!3d51.190793!4d4.373133
 registration: https://docs.google.com/forms/d/e/1FAIpQLSf9wInJrajcr0iQGIYlmvvbmhmFB5fVTNLvi3bTqcAf30-6AQ/viewform

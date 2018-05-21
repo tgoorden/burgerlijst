@@ -33,3 +33,21 @@ defaults:
       type: events
      values:
       layout: event
+   - scope:
+      path: "materiaal/social"
+     values:
+      materiaal: true
+      social: true
+   - scope:
+      path: "materiaal/logo-met-tagline"
+     values:
+      materiaal: true
+      logo: true
+      tagline: true
+   - scope:
+      path: "materiaal/logo-zonder-tagline"
+     values:
+      materiaal: true
+      logo: true
+      tagline: false
+

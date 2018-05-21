@@ -1,0 +1,16 @@
+---
+title: Visueel materiaal
+layout: page
+
+---
+
+h2 Social media
+ul
+| {% assign image_files = site.static_files | where: "social", true %}
+| {% for myimage in image_files %}
+li
+   a(href="{{ myimage.path }}") {{ myimage.name }}
+   | {% if myimage.extname == ".jpg" %}
+   img(src="{{myimage.path}}" width="50%")
+   | {% endif %}
+| {% endfor %}
