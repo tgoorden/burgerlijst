@@ -5,9 +5,7 @@ title: Ingeschreven! Wat kan je nu nog doen?
 
 Eerst en vooral hartelijk dank voor je interesse in de Burgerlijst, ons radicaal nieuwe democratische project. Bij deze sta je mee aan de wieg van een échte omwenteling in hoe politiek werkt in ons land.
 
-Voor het geval dat je er nog niet bewust van bent: op donderdag 4 januari en donderdag 18 januari organiseren we info-avonden voor de eerste . Beide avonden bevatten (ongeveer) dezelfde inhoud, dus je kan kiezen. Het is wel handig als er zo veel mogelijk mensen al op 4 januari inschrijven, tot een maximum van 49 personen. Er is ook een Facebook event voor aangemaakt.
-
-De infoavonden gaan door in De Nwe Tijd (Sint-Paulusstraat 23, 2000 Antwerp, Belgium), telkens vanaf 19u.
+Via mail zullen we je op de hoogte houden van de info-avonden, burgercafés hebben we ze gedoopt. Volg ook zeker onze facebookpagina (facebook.com/burgerlijst).
  
 ## Wat mag je verwachten op de infoavonden?
 
