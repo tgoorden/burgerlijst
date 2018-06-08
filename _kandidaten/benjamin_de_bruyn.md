@@ -9,10 +9,8 @@ passies:
 interesses: 
 * Ondernemen, wetenschap, duurzaamheid
 * Superdiversiteit
-professioneel:
-* Zelfstandig
-* Vrijwilliger: voorzitter van vzw Kievitsnest,  betrokken bij vzw Antwerpen aan't Woord
-vrijwilliger:
+professioneel: Zelfstandig
+vrijwilliger: voorzitter van vzw Kievitsnest,  betrokken bij vzw Antwerpen aan't Woord
 foto:
 published: true
 
