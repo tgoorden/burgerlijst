@@ -5,7 +5,7 @@ buurt: Stadspark - Diamantwijk
 leeftijd: 31
 burgerlijke stand:
 gezin: 1 kat
-passies: geografie, cartografie en ecologie. Vrije tijd: sportieve activiteiten, yoga en iets gaan eten of drinken op één van de vele leuke pleintjes van ‘t Stad.
+passies: geografie, cartografie en ecologie. Sport, yoga en iets gaan eten of drinken op één van de vele leuke pleintjes van ‘t Stad.
 interesses: Ons Leefmilieu, Ruimtelijke Planning, Yoga
 professioneel: Risicoanalist en yogalerares
 vrijwilliger:
