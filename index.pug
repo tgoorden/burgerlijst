@@ -17,7 +17,7 @@ div.col-sm-12.col-md
       h2
          a(href="/kalender.html") Kalender
       ul
-         | {% assign events = site.events | sort: "date" %}
+         | {% assign events = site.events | sort: "date" | where: "published",true %}
          | {% for event in events %}
          li
             h4
