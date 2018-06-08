@@ -31,6 +31,7 @@ _Ingrediënten van een schone zangvogel:_
 * _Goede koorleider, kunnen luisteren en afstemmen, harmoniseren._
 * _Multicultureel_
 * _Klassiek en alternatief gemengd, holistisch_  
+
 Een vriendin
 
 
