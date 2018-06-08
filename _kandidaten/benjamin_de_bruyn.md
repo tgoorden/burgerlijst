@@ -26,9 +26,11 @@ Als ik Benjamin zou moeten vergelijken met een dier, zou het een olifant zijn. M
 
 Een vriend
 
+
 Geef Benjamin een administratieve opdracht en je merkt dat zijn energie wegsmelt als sneeuw voor de zon. Zowel het werktempo als de nauwkeurigheid zijn dan voor verbetering vatbaar. Benjamin ken ik als iemand die graag out-of-the-box denkt en hier ook heel goed in is. Het onderwerp is in principe niet zo relevant voor hem, want hij houdt zich met duizend en één verschillende dingen bezig: kerken, energie, onderhoud, bouwschade, een nieuwe manier van politiek, etc... Zolang het maar ruikt naar vernieuwing. Kortom, iemand die bruist van energie en altijd klaar staat voor een boeiende brainstorm sessie.
 
 Een collega
+
 
 Sommigen zullen Benjamin mogelijk wat koppig en eigenwijs noemen. Hij is inderdaad niet altijd de gemakkelijkste, al pikt hij van anderen steeds zijn weetje op. Hij volgt hardnekkig zijn eigen pad, vaak wars van wat anderen daarvan denken. Eenmaal een doel voor ogen waarin hij rotsvast gelooft, bijt hij zich daarin vast, gaat hij er ten volle voor. Zijn opleiding, nieuwsgierigheid en gedrevenheid helpen hem bij het volgen van dat pad, en het werkt m.i. aanstekelijk op anderen.
 
