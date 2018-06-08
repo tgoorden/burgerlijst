@@ -21,8 +21,8 @@ Antwerpen is mijn thuishaven sinds het culturele hoofdstad van Europa was in 199
 _Ik ken Hadewig als een krachtig en innemende persoonlijkheid. Wanneer zij haar doel duidelijk heeft zet zij zich er 100 procent voor in, hierbij haar omgeving niet uit het oog verliezend. Ze heeft haar hart op de juiste plaats en blijft daar trouw aan, hierdoor weet je wat je aan haar hebt. Haar open en eerlijke communicatie zorgt er voor dat je op haar kunt vertrouwen. Met haar optimistische levenshouding en enthousiasme stimuleert ze anderen mee te doen en samen te werken. Kortom, een levendige vrouw die straalt wanneer ze met passie ergens voor gaat._  
 Een vriendin
 
-_Ingrediënten van een schone zangvogel:
-* Kunstenaarsziel, hoog tolerantie vermogen, weinig vooroordeel, aandachtig en gefocust op  bewust zijn. (Wat speelt er op de achtergrond?)
+_Ingrediënten van een schone zangvogel:_
+_* Kunstenaarsziel, hoog tolerantie vermogen, weinig vooroordeel, aandachtig en gefocust op  bewust zijn. (Wat speelt er op de achtergrond?)
 * Ervaring en vertrouwen in het eigen creatieproces, openheid voor nieuwe vormen en wegen
 * Nemen van verantwoordelijkheid privé en maatschappelijk .
 * Kunnen omgaan met angst, diversiteit, multidimensionaliteit.
