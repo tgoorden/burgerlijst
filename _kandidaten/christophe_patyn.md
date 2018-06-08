@@ -22,9 +22,11 @@ _Ik ken Christophe als een gedreven persoon. Hij deinst niet terug voor kritiek 
 Een collega
 
 
+
 _Christophe’s love for others originates from a goal of improving that person’s life. Whether it’s working towards an achievement, listening as a soundboard, joking to break a smile, he somehow finds a way to comfort yet also strengthen a bond. I am a more confident, supported, and socially aware person because of him, and I know there are many others like me. His rationality is his gift and his charm, and I see myself and the world with clarity through his eyes._  
 
 Een familielid
+
 
 
 _Ik kijk op naar Christophe voor zijn wilskracht om te zijn wie hij wilt/moet zijn. Geen excuses over de situatie of externe factoren maar een bewuste en vrije keuze om te staan waar hij staat. Een van de weinige mensen die echt op hoog niveau aan zelfontwikkeling doet en zich her-uitvindt door zich te informeren, een mening te vormen en - enorm belangrijk - deze vervolgens ook uit te voeren. Het nodige geduld om andere mensen zijn gedachtegang te laten volgen is soms wel een uitdaging._  
