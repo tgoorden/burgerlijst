@@ -14,7 +14,7 @@ published: true
 
 ---
 # Waarom ben ik kandidaat?
-Ik ben Yanti en ik woon al (bijna) mijn hele leven in Antwerpen. Borgerhout, Berchem, Deurne, Wilrijk en nu Hoboken. Al deze Antwerpse districten heb ik ooit mijn woonplaats mogen noemen. Het mag duidelijk zijn dat Antwerpen in mij zit en daarom ben ik enthousiast om mee te werken aan dit initiatief, waarbij alle mensen die net als mij Antwerpen een warm hart toedragen samen de toekomst van ‘t Stad kunnen bepalen.
+Ik ben Yanti en ik woon al (bijna) mijn hele leven in Antwerpen. Borgerhout, Berchem, Deurne, Wilrijk en nu Hoboken. Al deze Antwerpse districten heb ik ooit mijn woonplaats mogen noemen. Het mag duidelijk zijn dat Antwerpen in mij zit en daarom ben ik enthousiast om mee te werken aan dit initiatief, waarbij alle mensen die net als ik Antwerpen een warm hart toedragen samen de toekomst van ‘t Stad kunnen bepalen.
 
 # Wat anderen zeggen over mij
 _Yanti is een goede luisteraar met een groot empathisch vermogen, die niet bang is om hard te werken voor een doel waar ze achter staat. Je slaat haar niet zomaar uit haar lood. Ze kan tot vervelens toe voet bij stuk houden._  
