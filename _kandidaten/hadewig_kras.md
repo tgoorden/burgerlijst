@@ -22,8 +22,8 @@ _Ik ken Hadewig als een krachtig en innemende persoonlijkheid. Wanneer zij haar 
 Een vriendin
 
 _Ingrediënten van een schone zangvogel:_
-_ * Kunstenaarsziel, hoog tolerantie vermogen, weinig vooroordeel, aandachtig en gefocust op  bewust zijn. (Wat speelt er op de achtergrond?)
-* Ervaring en vertrouwen in het eigen creatieproces, openheid voor nieuwe vormen en wegen
+* _Kunstenaarsziel, hoog tolerantie vermogen, weinig vooroordeel, aandachtig en gefocust op  bewust zijn. (Wat speelt er op de achtergrond?)_
+* _Ervaring en vertrouwen in het eigen creatieproces, openheid voor nieuwe vormen en wegen_
 * Nemen van verantwoordelijkheid privé en maatschappelijk .
 * Kunnen omgaan met angst, diversiteit, multidimensionaliteit.
 * Respect voor alle levensvormen.
