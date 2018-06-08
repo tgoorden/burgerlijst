@@ -1,6 +1,6 @@
-# burgerraad
+# burgerlijst
+ 
+Dit zijn de bronbestanden voor [burgerlijst.be][burgerlijst].
 
-Dit zijn de bronbestanden voor [burgerraad.be][burgerraad].
 
-
-[burgerraad]: http://www.burgerraad.be/
+[burgerlijst]: http://www.burgerlijst.be/
