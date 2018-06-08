@@ -23,13 +23,10 @@ Een vriendin
 _Hij lijkt soms chaotisch. Wellicht is het zijn brein dat op een creatieve  en complexe manier aan het werk is - soms op rare momenten of dicht bij een deadline. :) Vincent is erg curieus en ontdekt graag nieuwe dingen in de wereld rondom. Hij is een heel fijne persoon om te leren kennen en mee samen te werken._  
 Een klasgenoot
 
-___Kan het hogere doel voorop stellen__”: Hij weet dat hij om bedrijven en politiek op één lijn te krijgen om zich socialer en milieubewuster te engageren, hij eerst in dialoog zal moeten gaan met deze mensen. Ook als deze bedrijven of politici lijnrecht tegenover zijn idealen staan, vindt hij steeds een manier om in dialoog te treden.”
-
+"__Kan het hogere doel voorop stellen__”: Hij weet dat hij om bedrijven en politiek op één lijn te krijgen om zich socialer en milieubewuster te engageren, hij eerst in dialoog zal moeten gaan met deze mensen. Ook als deze bedrijven of politici lijnrecht tegenover zijn idealen staan, vindt hij steeds een manier om in dialoog te treden."  
 “__Sterk geëngageerd__”: Al van jongs af heeft hij een breed netwerk omdat hij zich in elk engagement voor de volle 200% smijt. Zowel professioneel als in zijn vrije tijd, spendeert hij erg veel tijd aan zijn idealen: mensenrechten, sociaal engagement en milieu.”
-
-“__Goedlachs zijn__”: Het is een kwaliteit die naar mijn mening zwaar onderschat is. Vincent kan moeilijke situaties goed ontmijnen door een grappige opmerking. Daarnaast is hij gemakkelijk in de omgang en erg toegankelijk.
-
-“__Communicatief erg sterk__”: Vincent is erg gemakkelijk in de omgang. Hij kan goed luisteren, en goed in dialoog treden, ook als het om delicate kwesties gaat._  
+  “__Goedlachs zijn__”: Het is een kwaliteit die naar mijn mening zwaar onderschat is. Vincent kan moeilijke situaties goed ontmijnen door een grappige opmerking. Daarnaast is hij gemakkelijk in de omgang en erg toegankelijk.
+  “__Communicatief erg sterk__”: Vincent is erg gemakkelijk in de omgang. Hij kan goed luisteren, en goed in dialoog treden, ook als het om delicate kwesties gaat._  
 Zus
 
 
