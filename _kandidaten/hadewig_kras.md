@@ -24,13 +24,13 @@ Een vriendin
 _Ingrediënten van een schone zangvogel:_
 * _Kunstenaarsziel, hoog tolerantie vermogen, weinig vooroordeel, aandachtig en gefocust op  bewust zijn. (Wat speelt er op de achtergrond?)_
 * _Ervaring en vertrouwen in het eigen creatieproces, openheid voor nieuwe vormen en wegen_
-* Nemen van verantwoordelijkheid privé en maatschappelijk .
-* Kunnen omgaan met angst, diversiteit, multidimensionaliteit.
-* Respect voor alle levensvormen.
-* Levensgoesting!
-* Goede koorleider, kunnen luisteren en afstemmen, harmoniseren.
-* Multicultureel
-* Klassiek en alternatief gemengd, holistisch_  
+* _Nemen van verantwoordelijkheid privé en maatschappelijk._
+* _Kunnen omgaan met angst, diversiteit, multidimensionaliteit._
+* _Respect voor alle levensvormen._
+* _Levensgoesting!_
+* _Goede koorleider, kunnen luisteren en afstemmen, harmoniseren._
+* _Multicultureel_
+* _Klassiek en alternatief gemengd, holistisch_  
 Een vriendin
 
 
