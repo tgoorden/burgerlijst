@@ -6,8 +6,7 @@ leeftijd: 35
 burgerlijke stand:
 gezin: 1 hondje
 passies:
-interesses: 
-Ondernemen, wetenschap, duurzaamheid, superdiversiteit
+interesses: Ondernemen, wetenschap, duurzaamheid, superdiversiteit
 professioneel: Zelfstandig
 vrijwilliger: voorzitter van vzw Kievitsnest,  betrokken bij vzw Antwerpen aan't Woord
 foto:
