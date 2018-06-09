@@ -9,7 +9,7 @@ passies: geografie, cartografie en ecologie. Sport, yoga en iets gaan eten of dr
 interesses: Ons Leefmilieu, Ruimtelijke Planning, Yoga
 professioneel: Risicoanalist en yogalerares
 vrijwilliger:
-foto:
+foto: kristel.jpg
 published: true
 
 ---

@@ -9,7 +9,7 @@ passies: ‘t Stad, fietsen, reizen, lezen en films kijken
 interesses: leefmilieu en (kans)armoedebestrijding
 professioneel: Adviseur bodemonderzoek en bodemsanering bij Antea Group
 vrijwilliger: Vrijwilliger bij Auxilia vzw (bijles voor kansarme kinderen)
-foto:
+foto: yanti.jpg
 published: true
 
 ---

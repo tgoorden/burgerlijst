@@ -1,5 +1,5 @@
 ---
-naam: "Leen Schelfout"
+naam: "Leen Schelfhout"
 tegenkomen: … joggend in het stadspark, in een koffiebar met vrienden of collega’s
 buurt: Stadspark - Klein Antwerpen
 leeftijd: 39
@@ -9,7 +9,7 @@ passies:
 interesses: onderwijs, participatievormen
 professioneel: Adviseur Taalbeleid aan Artesis Plantijn Hogeschool
 vrijwilliger:
-foto:
+foto: leen.jpg
 published: true
 
 ---

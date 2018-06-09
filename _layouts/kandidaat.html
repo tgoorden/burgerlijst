@@ -1,6 +1,11 @@
 ---
 layout: page
 ---
+
+{% if page.foto %}
+<img src="/assets/portretten/full/{{ page.foto }}" alt="{{ page.naam }}" width="300px"/>
+{% endif %}
+
 <ul>
 {% if page.buurt %}
 <li>{{ page.buurt }}</li>

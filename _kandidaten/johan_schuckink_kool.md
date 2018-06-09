@@ -9,7 +9,7 @@ passies:
 interesses: mobiliteit, groen, cultuur
 professioneel: KU Leuven, zelfstandig therapeut
 vrijwilliger:
-foto:
+foto: johan.jpg
 published: true
 
 ---

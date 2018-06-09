@@ -9,7 +9,7 @@ passies:
 interesses: energietransitie, mobiliteit
 professioneel:
 vrijwilliger:
-foto:
+foto: christophe.jpg
 published: true
 
 ---

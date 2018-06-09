@@ -9,7 +9,7 @@ passies:
 interesses: Ecologie, feminisme, dierenrechten, muziek
 professioneel:
 vrijwilliger: TEJO (Therapeuten voor Jongeren)
-foto:
+foto: elsje.jpg
 published: true
 
 ---

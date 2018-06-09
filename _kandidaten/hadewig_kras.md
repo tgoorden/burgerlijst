@@ -9,7 +9,7 @@ passies:
 interesses: muziek, theater, geschiedenis, filosofie, spiritualiteit
 professioneel: zangeres/songwriter/zangdocent
 vrijwilliger: ambassadeur voor de wijk Seefhoek bij de Hoplr app (buurtwerking), ENGAGEMENT (organisatie die mensen op weg helpt met problemen rond seksisme, machtsmisbruik en sexual harassment in de kunsten)
-foto:
+foto: hadewig.jpg
 published: true
 
 ---

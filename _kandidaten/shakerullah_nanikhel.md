@@ -9,7 +9,7 @@ passies: Mensen helpen
 interesses: Sporten (volleybal, cricket) 
 professioneel: IT
 vrijwilliger:
-foto:
+foto: shaker.jpg
 published: true
 
 ---

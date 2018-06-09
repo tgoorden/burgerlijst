@@ -9,7 +9,7 @@ passies:
 interesses: Ondernemen, wetenschap, duurzaamheid, superdiversiteit
 professioneel: Zelfstandig
 vrijwilliger: voorzitter van vzw Kievitsnest,  betrokken bij vzw Antwerpen aan't Woord
-foto:
+foto: benjamin.jpg
 published: true
 
 ---

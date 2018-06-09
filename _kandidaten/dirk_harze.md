@@ -9,7 +9,7 @@ passies:
 interesses:
 professioneel: Bediende in de haven van Antwerpen
 vrijwilliger:
-foto:
+foto: dirk.jpg
 published: true
 
 ---

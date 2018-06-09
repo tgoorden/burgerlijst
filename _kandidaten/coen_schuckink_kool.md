@@ -1,5 +1,5 @@
 ---
-naam: "Coen Schuckinck Kool"
+naam: "Coen Schuckink Kool"
 tegenkomen: … in bibliotheek Permeke, ‘s avonds gezellig op café met vrienden
 buurt: Seefhoek
 leeftijd: 18
@@ -9,7 +9,7 @@ passies:
 interesses: onderwijs en cultuur
 professioneel: Student
 vrijwilliger:
-foto:
+foto: coen.jpg
 published: true
 
 ---
