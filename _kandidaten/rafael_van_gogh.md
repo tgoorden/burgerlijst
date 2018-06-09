@@ -1,5 +1,5 @@
 ---
-naam: "NAAM"
+naam: "Rafaël van Gogh"
 tegenkomen: … winkelend, wandelend, fietsend, feestend, dansend, ...
 buurt:
 leeftijd: 52
@@ -13,7 +13,6 @@ foto:
 published: true
 
 ---
-# Waarom ben ik kandidaat?
 
 
 # Wat anderen zeggen over mij

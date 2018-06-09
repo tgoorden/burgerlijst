@@ -1,5 +1,5 @@
 ---
-naam: "NAAM"
+naam: "Benjamin De Bruyn"
 tegenkomen: … op pad met mijn hondje
 buurt: 2060
 leeftijd: 35

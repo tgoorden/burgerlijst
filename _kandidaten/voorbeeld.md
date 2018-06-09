@@ -2,7 +2,7 @@
 naam: "NAAM"
 tegenkomen:
 buurt:
-leeftijd:
+leeftijd: 0
 burgerlijke stand:
 gezin:
 passies:
@@ -10,7 +10,7 @@ interesses:
 professioneel:
 vrijwilliger:
 foto:
-published: true
+published: false
 
 ---
 # Waarom ben ik kandidaat?

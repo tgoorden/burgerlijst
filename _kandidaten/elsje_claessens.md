@@ -1,8 +1,8 @@
 ---
-naam: "NAAM"
+naam: "Elsje Claessens"
 tegenkomen: … op wandel met mijn hond, genietend met vrienden van alles wat mooi en lekker is.
 buurt: Oude stadscentrum
-leeftijd: 50 jaar
+leeftijd: 50
 burgerlijke stand:
 gezin:
 passies:

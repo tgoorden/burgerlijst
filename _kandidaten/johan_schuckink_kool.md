@@ -1,5 +1,5 @@
 ---
-naam: "NAAM"
+naam: "Johan Schuckink Kool"
 tegenkomen: … wandelend, op zoek naar nieuwe plekjes
 buurt: Seefhoek
 leeftijd: 50

@@ -1,5 +1,5 @@
 ---
-naam: "NAAM"
+naam: "Dirk Harzé"
 tegenkomen:
 buurt: Borgerhout (Plantin en Moretuslei)
 leeftijd: 44

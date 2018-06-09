@@ -1,5 +1,5 @@
 ---
-naam: "NAAM"
+naam: "Christophe Patyn"
 tegenkomen: … op zoek naar evenementen op de Groenplaats, joggend op het eilandje of langs de kaai
 buurt: 2000
 leeftijd: 28

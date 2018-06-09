@@ -1,0 +1,35 @@
+---
+layout: page
+---
+<ul>
+{% if page.buurt %}
+<li>{{ page.buurt }}</li>
+{% endif %}
+
+{% if page.gezin %}
+<li>{{ page.gezin }}</li>
+{% endif %}
+</ul>
+
+{% if page.professioneel %}
+<h4>Professioneel</h4>
+<p>{{ page.professioneel }}</p>
+{% endif %}
+
+{% if page.vrijwilliger %}
+<h4>Vrijwilliger</h4>
+<p>{{ page.vrijwilliger }}</p>
+{% endif %}
+
+{% if page.interesses %}
+<h4>Interesses</h4>
+<p>{{ page.interesses }}</p>
+{% endif %}
+
+{% if page.passies %}
+<h4>Passies</h4>
+<p>{{ page.passies }}</p>
+{% endif %}
+
+{{ content }}
+

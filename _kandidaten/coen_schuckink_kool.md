@@ -1,5 +1,5 @@
 ---
-naam: "NAAM"
+naam: "Coen Schuckinck Kool"
 tegenkomen: … in bibliotheek Permeke, ‘s avonds gezellig op café met vrienden
 buurt: Seefhoek
 leeftijd: 18

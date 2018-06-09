@@ -1,5 +1,5 @@
 ---
-naam: "NAAM"
+naam: "Mirzet Salesevic"
 tegenkomen: … in Stedelijke Sporthallen en openluchtterreinen
 buurt: Ekeren
 leeftijd: 37

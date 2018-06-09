@@ -1,5 +1,5 @@
 ---
-naam: "NAAM"
+naam: "Yanti Simanjuntak"
 tegenkomen: ... al fietsend naar overal, bij voorkeur naar leuke evenementen, concerten, festivals
 buurt: Hoboken
 leeftijd: 26

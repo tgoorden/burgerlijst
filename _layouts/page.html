@@ -4,7 +4,7 @@ layout: default
 <div class="col-sm-12 col-md-9 regular" id="page">
 
   <header class="post-header">
-    <h1 class="post-title">{{ page.title }}</h1>
+     <h1 class="post-title">{% if page.naam %}{{ page.naam }}{% else %}{{ page.title}}{% endif %}{% if page.leeftijd %} ({{ page.leeftijd }}j){% endif %}</h1>
   </header>
 
   <article class="post-content">

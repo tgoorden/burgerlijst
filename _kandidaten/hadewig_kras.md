@@ -1,5 +1,5 @@
 ---
-naam: "NAAM"
+naam: "Hadewig Kras"
 tegenkomen: … op de fiets en op pleintjes waar podia, terrasjes en speeltuinen zijn
 buurt: Seefhoek
 leeftijd: 48

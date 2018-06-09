@@ -1,5 +1,5 @@
 ---
-naam: "NAAM"
+naam: "Kristel Sieprath"
 tegenkomen: … in de stad, in het Stadspark, op het Theaterplein, aan het Galgenweel
 buurt: Stadspark - Diamantwijk
 leeftijd: 31

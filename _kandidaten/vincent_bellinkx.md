@@ -1,5 +1,5 @@
 ---
-naam: "NAAM"
+naam: "Vincent Bellinkx"
 tegenkomen: ... in de stad, in het zwembad, al fietsend en met vrienden op café.
 buurt:
 leeftijd: 28

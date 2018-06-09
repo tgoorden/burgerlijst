@@ -1,5 +1,5 @@
 ---
-naam: "NAAM"
+naam: "Leen Schelfout"
 tegenkomen: … joggend in het stadspark, in een koffiebar met vrienden of collega’s
 buurt: Stadspark - Klein Antwerpen
 leeftijd: 39

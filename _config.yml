@@ -26,6 +26,9 @@ collections:
    events:
       output: true
       permalink: /:collection/:name:output_ext
+   kandidaten:
+      output: true
+      permalink: /kandidaat/:name:output_ext
 
 defaults:
    - scope:
@@ -33,6 +36,11 @@ defaults:
       type: events
      values:
       layout: event
+   - scope:
+      path: ""
+      type: kandidaten
+     values:
+      layout: kandidaat
    - scope:
       path: "materiaal/social"
      values:
