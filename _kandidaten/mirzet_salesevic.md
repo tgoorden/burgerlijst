@@ -9,7 +9,7 @@ passies:
 interesses: Cultuur en sport, diversiteit in de stad Antwerpen, migratie
 professioneel: Sportpromotor en zaalverantwoordelijke voor Stad Antwerpen
 vrijwilliger:
-foto:
+foto: mirzet.jpg
 published: true
 
 ---

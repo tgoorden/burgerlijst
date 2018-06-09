@@ -9,7 +9,7 @@ passies: voetbal, theater, natuur
 interesses: groen in de stad, energie en economie
 professioneel: Onderzoeker Faculteit Rechten Universiteit Antwerpen
 vrijwilliger: duurzaamheidseducatie Act4Change, stadslabo Atopia
-foto:
+foto: vincent.jpg
 published: true
 
 ---

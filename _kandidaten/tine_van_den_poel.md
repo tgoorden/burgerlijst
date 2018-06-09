@@ -9,7 +9,7 @@ passies: Ik ben dol op lezen
 interesses: 
 professioneel: Communicatiemedewerker
 vrijwilliger:
-foto:
+foto: tine.jpg
 published: true
 
 ---

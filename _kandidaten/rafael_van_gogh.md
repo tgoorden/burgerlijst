@@ -9,7 +9,7 @@ passies: Mensen, echtgenote, theater, sport, dansen, dialoog, ...
 interesses: Zee, reizen, politiek, engagement.
 professioneel: Staflid en beleidsadviseur Provinciaal Onderwijs Antwerpen in de beleidsvelden Integrale Kwaliteitszorg, Mondialisering en Logistiek
 vrijwilliger: Rode Kruis (vroeger), ROMA, Toneelgezelschap, Burgerlijst
-foto:
+foto: rafael.jpg
 published: true
 
 ---

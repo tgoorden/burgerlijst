@@ -1,5 +1,5 @@
 ---
-naam: "Shakerullah Banikhel"
+naam: "Shakerullah Nanikhel"
 tegenkomen: … op Park Spoor Noord, tijdens het sporten
 buurt:
 leeftijd: 32
