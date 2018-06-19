@@ -11,7 +11,7 @@ Een vernieuw de democratie komt niet vanzelf. Hiervoor zijn fondsen nodig, maar 
 
 ## Ik heb weinig tijd
 
-* Ik doe een [financiële bijdrage] (https://opencollective.com/burgerlijst#) aan de Burgerlijst.
+* Ik doe een [financiële bijdrage](https://opencollective.com/burgerlijst#) aan de Burgerlijst.
 * Ik like de [Facebook pagina](https://www.facebook.com/burgerlijst/)
 * Ik deel een artikel over de Burgerlijst op mijn sociale media
 * Ik praat over de Burgerlijst met vrienden en familie
