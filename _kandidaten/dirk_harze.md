@@ -1,6 +1,6 @@
 ---
 naam: "Dirk Harzé"
-tegenkomen:
+tegenkomen: … vaak in Borgerhout
 buurt: Borgerhout (Plantin en Moretuslei)
 leeftijd: 44
 burgerlijke stand: Getrouwd
