@@ -28,3 +28,4 @@ Daarnaast is Johan een huismus die graag thuis is en dan lekker kookt zodat er g
 Een familielid
 
 
+Contact: johan.schuckink.kool@burgerlijst.be
