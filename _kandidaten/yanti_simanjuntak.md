@@ -27,3 +27,4 @@ _Als ik Yanti moet karakteriseren in enkele woorden, dan komen gedrevenheid, soc
 Een collega
 
 
+Contact: yanti.simanjuntak@burgerlijst.be
