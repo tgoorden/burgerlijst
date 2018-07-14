@@ -27,3 +27,4 @@ _Altijd betrokken en bezorgd om familieleden, zal helpen als ze kan. De drukte v
 Echtgenoot
 
 
+Contact: leen.schelfhout@burgerlijst.be

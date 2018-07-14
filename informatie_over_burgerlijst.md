@@ -7,7 +7,7 @@ menu_titel: Over de Burgerlijst
 menu_order: 2
 ---
 # Visie
-De Burgerlijst geeft burgers de macht om beslissingen te nemen over hun stad. We streven naar een stadsbestuur dat conflictvrij aan besluitvorming doet. Een bestuur waar iedereen aan kan meewerken. Waar ontmoeting centraal staat. De Burgerlijst werkt aan een transparante stad waarin eerlijke, slimme beslissingen worden genomen. We zijn volledig onafhankelijk van de belangen van partijpolitiek. De Burgerlijst brengt de democratie in een stroomversnelling.
+De Burgerlijst geeft burgers de macht om beslissingen te nemen over hun stad. We streven naar een Antwerps stadsbestuur dat conflictvrij besluiten neemt. Een bestuur waar iedereen aan kan meewerken. Waar ontmoeting centraal staat. De Burgerlijst werkt aan een transparante stad waarin eerlijke, slimme beslissingen worden genomen. We zijn volledig onafhankelijk van de belangen van partijpolitiek. De Burgerlijst brengt de democratie in een stroomversnelling.
 
 # Voorbeelden
 Om de vraag: werkt dit in de praktijk in een keer te beantwoorden: ja! In steeds meer landen vinden burgers rechtstreeks de weg naar de politieke macht. Maar beginnen doen we bij het begin.
@@ -16,13 +16,12 @@ Om de vraag: werkt dit in de praktijk in een keer te beantwoorden: ja! In steeds
 
 ### Of hoe een handvol mensen in het Engelse Frome een internationale beweging op gang bracht
  
-Toen Peter Macfadyen geen afdoend antwoord kreeg van zijn lokaal bestuur op een nochtans eenvoudige vraag, wist hij niet dat hij in wat volgde een hele beweging op gang zou brengen. We schrijven 2011 wanneer een handvol burgers het heft in eigen handen neemt en de lokale bevolking warm maakt voor een vernieuwend project: uitklapdemocratie (of: Flatpack democracy).
-In lokale cafés komen burgers bij elkaar om te bespreken hoe het anders kan na jaren van stugge partijpolitieke vertegenwoordiging. De independents for Frome (ifF) zijn geboren.
-Het project kan op overweldigende steun rekenen in de verkiezingen van 2011. Maar liefst 10 van de 17 zetels gaan naar ifF. Kan het nog gekker? Ja hoor, dankzij hun inclusieve werk en de vernieuwende projecten halen ze in 2015 àlle zetels binnen.
-Hun verwezenlijkingen? Die leggen ze zelf het best uit in [dit filmpje](https://www.youtube.com/watch?v=pMEDVG8237s).
+Toen Peter Macfadyen geen afdoend antwoord kreeg van zijn lokaal bestuur op een nochtans eenvoudige vraag, wist hij niet dat hij in wat volgde een hele beweging op gang zou brengen. In 2011 neemt een handvol burgers het heft in eigen handen neemt en maakt de lokale bevolking warm voor een vernieuwend project: uitklapdemocratie (of: Flatpack democracy).
+In lokale cafés komen burgers bij elkaar om te bespreken hoe het anders kan na jaren van stugge partijpolitieke vertegenwoordiging. De independents for Frome (ifF) kan op overweldigende steun rekenen in de verkiezingen van 2011. Maar liefst 10 van de 17 zetels gaan naar ifF. Kan het nog gekker? Ja hoor, dankzij hun inclusieve werk en de vernieuwende projecten halen ze in 2015 álle zetels binnen.
+Hun verwezenlijkingen leggen ze zelf het best uit in [dit filmpje](https://www.youtube.com/watch?v=pMEDVG8237s).
  
 Intussen groeit de lijst van Britse voorbeelden gestaag: Bath, Sutton, Winchester,…
-Wil je meer weten? Macfadyen schreef zelf een doe-het-zelf-boek met de gebeurtenissen in Frome als leidraad. De passende titel: [Flatpack Democracy](http://www.flatpackdemocracy.co.uk/thebook/).
+Wil je meer weten? Macfadyen schreef zelf een doe-het-zelfboek met de gebeurtenissen in Frome als leidraad. De passende titel: [Flatpack Democracy](http://www.flatpackdemocracy.co.uk/thebook/).
  
 ## En bij ons?
 
@@ -32,7 +31,7 @@ De komende maanden verwachten we dat nog veel burgerlijsten in steden en gemeent
 Eentje die zich al  volop in de verkiezingsstrijd mengt is 'De burgers van Grobbendonk & Bouwel'. In september 2017 zorgden ze voor een politieke aardverschuiving in de gemeente toen 2 leden van het college en een gemeenteraadslid, uit 3 verschillende politieke fracties, hun partij aflegden. Het startschot voor burgerparticipatie in hun gemeente, weg van partijpolitieke spelletjes en afspraken.
 Ben je benieuwd naar hun manier van werken? Loop zeker eens binnen bij een van hun [burgercafés](http://deburgers.be/).
 
-Ook in [Brussel](https://medium.com/@webrussels) zijn ze van start gegaan.
+Ook in [Brussel](https://medium.com/@webrussels) en [Ternat](https://www.highfive-ternat.be/) zijn ze van start gegaan.
 
 # Hoe het begon
 

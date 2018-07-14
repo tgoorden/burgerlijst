@@ -27,3 +27,4 @@ _Samen doen wij veel dingen, lekker gaan eten en veel plezier maken. Soms doen w
 Een vriend
 
 
+Contact: mirzet.salesevic@burgerlijst.be

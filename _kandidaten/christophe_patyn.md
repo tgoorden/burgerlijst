@@ -25,3 +25,6 @@ Een familielid
 
 _Ik kijk op naar Christophe voor zijn wilskracht om te zijn wie hij wilt/moet zijn. Geen excuses over de situatie of externe factoren maar een bewuste en vrije keuze om te staan waar hij staat. Een van de weinige mensen die echt op hoog niveau aan zelfontwikkeling doet en zich her-uitvindt door zich te informeren, een mening te vormen en - enorm belangrijk - deze vervolgens ook uit te voeren. Het nodige geduld om andere mensen zijn gedachtegang te laten volgen is soms wel een uitdaging._  
 Een vriend
+
+
+Contact: christophe.patyn@burgerlijst.be

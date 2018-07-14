@@ -30,5 +30,5 @@ _Sommigen zullen Benjamin mogelijk wat koppig en eigenwijs noemen. Hij is inderd
 Een familielid
 
 
-
+Contact: benjamin.de.bruyn@burgerlijst.be
 

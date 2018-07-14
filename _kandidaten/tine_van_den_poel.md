@@ -27,3 +27,4 @@ _Tine kan even goed relativeren als fietsen en Tine fietst tussen alles door. Ne
 Zus 3
 
 
+Contact: tine.van.den.poel@burgerlijst.be
