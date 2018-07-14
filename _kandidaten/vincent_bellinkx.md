@@ -30,3 +30,4 @@ _"__Kan het hogere doel voorop stellen__”: Hij weet dat hij om bedrijven en po
 Zus
 
 
+Contact: vincent.bellinkx@burgerlijst.be
