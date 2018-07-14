@@ -27,3 +27,4 @@ _Avontuurlijk,  ondernemend, koppig, intelligent, stille kracht. Ze heeft een po
 Een familielid
 
 
+Contact: kristel.sieprath@burgerlijst.be
