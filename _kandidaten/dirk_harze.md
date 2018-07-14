@@ -25,3 +25,4 @@ _Dirk is iemand waar je altijd op kan rekenen. Een analytische geest gecombineer
 Een vriend
 
 
+Contact: dirk.harze@burgerlijst.be
