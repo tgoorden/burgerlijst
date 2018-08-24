@@ -8,4 +8,4 @@ published: true
 
 ---
 
-Welkom op de Burgerlijst picknick! Breng je lunch mee. We knutselen, spelen en keuvelen wat. Je kan er ook alles te weten komen over de Burgerlijst. Je vindt ons in Park spoor noord tot 17u. Volg het [facebookevent](https://www.facebook.com/events/251696122083437/) om op de hoogte te blijven. 
+Welkom op de Burgerlijst picknick! Breng je lunch mee. Je kan er ook alles te weten komen over de Burgerlijst. Je vindt ons in Park spoor noord tot 17u. Volg het [facebookevent](https://www.facebook.com/events/251696122083437/) om op de hoogte te blijven. 
