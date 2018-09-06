@@ -18,9 +18,11 @@ Ik zie veel enthousiaste Antwerpenaren die iets willen maken van hun stad. Ze zi
 
 # Wat anderen zeggen over mij
 _Ik leerde Riynto kennen toen hij juist 20 was geworden, maar toen al viel zijn maturiteit en zijn betrokkenheid - niet enkel op zijn familie en vrienden, maar op de samenleving als geheel - mij op. Hij is geen gangmaker en zal op een feestje niet de eerste zijn die je aandacht trekt, maar als je met hem in gesprek raakt zul je merken hoe zorgvuldig zijn mening is opgebouwd en hoe goed hij kan luisteren en bemiddelen._
+
 Echtgenote
 
 _Riynto kan goed luisteren en slaagt er steeds in om de verschillende kanten van een probleem of conflict te zien en te begrijpen. Hij is van nature een rustige en afwachtende persoon en zal nooit ongeinformeerd een standpunt innemen. Hij is ook een goede spreker die zijn punt steeds op duidelijke wijze kan overbrengen._
+
 Broer
 
 
