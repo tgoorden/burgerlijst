@@ -9,8 +9,8 @@ passies:
 interesses: beslissingsstructuren, onderwijs
 professioneel: Stafmedewerker onderwijsbeleid KU Leuven
 vrijwilliger:
-foto:
-published: false
+foto: riynto.JPG
+published: true
 
 ---
 # Waarom ben ik kandidaat?
