@@ -28,3 +28,4 @@ Echtgenoot
 
 
 Contact: leen.schelfhout@burgerlijst.be
+Volg Leen op [instagram](https://www.instagram.com/leen_schelfhout/) en [twitter](https://twitter.com/leen_schelfhout)
