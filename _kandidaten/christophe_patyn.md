@@ -27,4 +27,5 @@ _Ik kijk op naar Christophe voor zijn wilskracht om te zijn wie hij wilt/moet zi
 Een vriend
 
 
-Contact: christophe.patyn@burgerlijst.be
+Contact: christophe.patyn@burgerlijst.be  
+Volg Christophe op [Twitter](https://twitter.com/ChristophePatyn)
