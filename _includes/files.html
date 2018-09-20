@@ -1,0 +1,14 @@
+
+<ul>
+{% for file in include.files %}
+<li>
+  <a href="{{ file.path }}">
+   {% if file.extname == ".jpg" %}
+   <img src="{{file.path}}" width="150px"/>
+   {% else %}
+   {{ file.name }}
+   {% endif %}
+  </a>
+</li>
+{% endfor %}
+</ul>

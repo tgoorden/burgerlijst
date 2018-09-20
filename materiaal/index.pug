@@ -4,13 +4,26 @@ layout: page
 
 ---
 
+p Om te downloaden, rechterklik op de preview of de link en kies "opslaan als". Bestanden met ".ai", ".eps" of ".pdf" als extensie zijn geschikt voor drukwerk, de andere kan je online gebruiken.
+
 h2 Social media
 ul
 | {% assign image_files = site.static_files | where: "social", true %}
-| {% for myimage in image_files %}
-li
-   a(href="{{ myimage.path }}") {{ myimage.name }}
-   | {% if myimage.extname == ".jpg" %}
-   img(src="{{myimage.path}}" width="50%")
-   | {% endif %}
-| {% endfor %}
+| {% include files.html files=image_files %}
+
+
+h2 Posters
+ul
+| {% assign poster_files = site.static_files | where: "poster", true %}
+| {% include files.html files=poster_files %}
+
+h2 Logo's met tagline
+ul
+| {% assign logo_files = site.static_files | where: "logo", true | where: "tagline", true %}
+| {% include files.html files=logo_files %}
+
+
+h2 Logo's zonder tagline
+ul
+| {% assign logo_files = site.static_files | where: "logo", true | where: "tagline", false %}
+| {% include files.html files=logo_files %}

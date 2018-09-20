@@ -47,6 +47,11 @@ defaults:
       materiaal: true
       social: true
    - scope:
+      path: "materiaal/poster"
+     values:
+      materiaal: true
+      poster: true
+   - scope:
       path: "materiaal/logo-met-tagline"
      values:
       materiaal: true

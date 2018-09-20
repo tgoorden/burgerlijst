@@ -1,0 +1,20 @@
+---
+layout: default
+title: Kandidaten Gemeenteraad Antwerpen
+menu: true
+menu_title: Kandidaten gemeenteraad
+menu_order: 1 
+---
+
+div.col-md-9.col-sm-12
+   div.row
+      div.regular.col-sm-12.col-md-12
+         p De kandidaten van de Burgerlijst zijn gewone mensen. Als bezorgde burgers hebben ze zich geëngageerd om de democratie in hun stad terug in ere te herstellen. Het zijn geen partijpolitici, ze vertegenwoordigen niemand en brengen geen standpunten mee. Ze willen luisteren naar alle burgers die mee willen beslissen over hun stad. Ze werken aan een conflictvrije vorm van politiek, wees aub respectvol voor hun privé-leven.
+      | {% for kandidaat in site.data.gemeenteraad  %}
+      div.col-sm-12.col-md-4
+        div.regular(style="background-image: '/assets/portretten/full/{{ kandidaat.voornaam }}.jpg'")
+            h2
+              a(href="/{{ kandidaat.voornaam }}") {{ kandidaat.volgnummer }} {{ kandidaat.naam }}
+            img(src="/assets/portretten/full/{{ kandidaat.voornaam }}.jpg" alt="{{ kandidaat.naam }}" width="150px")
+
+      | {% endfor %}
