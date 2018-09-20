@@ -24,4 +24,5 @@ _Riynto kan goed luisteren en slaagt er steeds in om de verschillende kanten van
 Broer
 
 
-Contact: riynto.simanjuntak@burgerlijst.be
+Contact: riynto.simanjuntak@burgerlijst.be  
+Volg Riynto op [Instagram](https://www.instagram.com/riynto85/) en [Twitter](https://twitter.com/Riynto)
