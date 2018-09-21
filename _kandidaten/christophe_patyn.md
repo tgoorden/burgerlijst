@@ -24,7 +24,8 @@ _Christopheâ€™s love for others originates from a goal of improving that personâ
 Een familielid
 
 _Ik kijk op naar Christophe voor zijn wilskracht om te zijn wie hij wilt/moet zijn. Geen excuses over de situatie of externe factoren maar een bewuste en vrije keuze om te staan waar hij staat. Een van de weinige mensen die echt op hoog niveau aan zelfontwikkeling doet en zich her-uitvindt door zich te informeren, een mening te vormen en - enorm belangrijk - deze vervolgens ook uit te voeren. Het nodige geduld om andere mensen zijn gedachtegang te laten volgen is soms wel een uitdaging._  
-Een vriend
+Een vriend  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/A6n5r2uybPo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>  
 
 
 Contact: christophe.patyn@burgerlijst.be  
