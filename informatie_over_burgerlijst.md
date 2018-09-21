@@ -60,9 +60,6 @@ Het huidige democratische systeem met partijen is gebaseerd op conflict. De part
 ## Wat vinden de partijen van dit initiatief?
 Dat we het nog niet weten. Ze zullen het initiatief niet allemaal op applaus onthalen, zeker niet als ze denken stemmen te kunnen verliezen. Wanneer we een antwoord op deze vraag hebben, zullen we het hier posten.
 
-## Waarom komt de Burgerlijst niet op in de districten?
-Voorlopig richt de Burgerlijst zich in eerste instantie op de gemeenteraad van de stad Antwerpen. Daar zitten veruit de meeste bevoegdheden. Afhankelijk van het aantal aanmeldingen is opkomen in de districten een optie.
-
 ## En op Vlaams niveau dan?
 In 2019 zijn er Vlaamse verkiezingen. Het is niet uitgesloten dat er een burgerbeweging in Vlaanderen mee zal doen aan die verkiezingen. Met de Burgerlijst zullen we dan ook wel eens bekijken wat we ermee kunnen doen. Maar laten we ons eerst concentreren op oktober 2018.
 

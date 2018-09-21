@@ -14,12 +14,12 @@ img#logo {
    width: 100%;
 }
 
-div.regular, div.highlight, div.inverted {
+.regular, .highlight, .inverted {
    padding: 30px;
    margin-bottom: 30px;  
 }
 
-div.regular {
+.regular {
    border: 1px solid black;
    a {
       color: black;
@@ -39,7 +39,7 @@ div.regular {
    }
 }
 
-div.highlight {
+.highlight {
    background-color: $pink;
    color: white;
    a {
@@ -51,6 +51,26 @@ div.highlight {
    h1, h2, h3 {
       transform: skew(-6deg) rotate(-6deg);
    }
+}
+
+.inverted {
+  background-color: black;
+  color: white;
+  a {
+    color: white;
+  }
+}
+
+.portrait {
+  h1, h2, h3 {
+    color: white;
+    z-index: 100;
+    position: absolute;
+    padding-left: 30px;
+    padding-right: 30px;
+    bottom: 30px;
+  }
+  margin-bottom: 30px;
 }
 
 html {

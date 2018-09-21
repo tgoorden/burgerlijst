@@ -3,46 +3,58 @@ layout: default
 title: Homepagina
 ---
 
-div.col-sm-12.col-md
+.col-sm-12.col-md-3
+   .highlight.slogan#gemeente
+      h2
+         a(href="/kandidaten_gemeenteraad.html") Onze kandidaten voor de Gemeenteraad Antwerpen
+   .highlight.slogan#district
+      h2
+         a(href="/kandidaten_district.html") Onze kandidaten voor district Antwerpen
    // div.regular#info-kandituur
       h2
          a(href="/informatie_over_kandidaat_worden.html") Meer weten over kandidaat worden?
 
-div.col-sm-12.col-md
-   // div.highlight.slogan#interesse
-      h2
-         a(href="/interesse.html") Interesse om kandidaat te worden?
+.col-sm-12.col-md-6
+  .row
+    .col-sm-12.col-md-12(style="height:315px")
+      iframe(src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fburgerlijst%2Fvideos%2F1986616801430770%2F&show_text=0&width=560" width="100%" height="100%" style="border:none;max-width:560px;max-height:315px" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true")
+  .row
+    .col-sm-12.col-md
+      .inverted.slogan
+        h2
+          a(href="/programma/") Ons programma?
+      .regular#kalender
+        h2
+           a(href="/kalender.html") Kalender
+        ul
+           | {% assign events = site.events | sort: "date" | where: "published",true %}
+           | {% for event in events %}
+           li
+              h4
+                 a(href="{{ event.url }}") {{ event.title }}
+              | {{ event.date | date: "%d %b - %H:%M" }}
+              | {% if event.address %}
+              br
+              | @ 
+              a(href="{{ event.address }}") {{ event.location }}
+              | {% endif %}
+              | {% if event.registration %}
+              br
+              a(href="{{ event.registration }}") REGISTREER
+              | {% endif %}
+           | {% endfor %}
 
-   div.regular#kalender
-      h2
-         a(href="/kalender.html") Kalender
-      ul
-         | {% assign events = site.events | sort: "date" | where: "published",true %}
-         | {% for event in events %}
-         li
-            h4
-               a(href="{{ event.url }}") {{ event.title }}
-            | {{ event.date | date: "%d %b - %H:%M" }}
-            | {% if event.address %}
-            br
-            | @ 
-            a(href="{{ event.address }}") {{ event.location }}
-            | {% endif %}
-            | {% if event.registration %}
-            br
-            a(href="{{ event.registration }}") REGISTREER
-            | {% endif %}
-         | {% endfor %}
+    .col-sm-12.col-md
+       .regular#info-burgerlijst
+          h2
+             a(href="/informatie_over_burgerlijst.html") Meer weten over Burgerlijst?
 
-div.col-sm-12.col-md
-   div.regular#info-burgerlijst
-      h2
-         a(href="/informatie_over_burgerlijst.html") Meer weten over Burgerlijst?
-
-   div.regular#steun-burgerlijst
-      h2
-         a(href="/steun_burgerlijst.html") Steun de Burgerlijst
-
-
-
+       .regular#steun-burgerlijst
+          h2
+             a(href="/steun_burgerlijst.html") Steun de Burgerlijst
+       .regular#poster
+          h2 Download de posters
+          a(href="/materiaal/poster/Burgerlijst-PrintablePoster-Politiek.pdf" target="_new") "Politiek is van iedereen"
+          br
+          a(href="/materiaal/poster/Burgerlijst-PrintablePoster-WieGelooft.pdf" target="_new") "Wie gelooft die partijen nog?"
 
