@@ -24,7 +24,8 @@ _Mirzet is iemand die altijd zelfstandig is geweest en zijn best doet om dingen 
 Een familielid
 
 _Samen doen wij veel dingen, lekker gaan eten en veel plezier maken. Soms doen wij ook aan extreme sporten zoals Airsoft, Kickboksen en  Mountainbiken. Mirzet is een trouwe vriend en helpt iedereen waar nodig is. Hij reist heel veel en ontdekt graag nieuwe plaatsen en culturen. Hij is altijd gelukkig als hij prachtige landschappen kan zien. Daar kan hij echt van genieten. De laatste tijd heeft hij ook veel interesse in de politiek en het beleid dat gevoerd wordt. Hij komt op voor de rechten van de mens._  
-Een vriend
+Een vriend  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/m9SZMDQh6yM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>  
 
 
 Contact: mirzet.salesevic@burgerlijst.be
