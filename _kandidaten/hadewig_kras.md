@@ -32,7 +32,8 @@ _Ingrediënten van een schone zangvogel:_
 * _Multicultureel_
 * _Klassiek en alternatief gemengd, holistisch_  
 
-Een vriendin
+Een vriendin  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6R4CMot-ubw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>  
 
 
 contact: hadewig.kras@burgerlijst.be
