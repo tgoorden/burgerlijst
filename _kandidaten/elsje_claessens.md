@@ -24,7 +24,8 @@ _Als iemand de wereld ethiek kan bijbrengen dan is het Elsje! Boordevol goede wi
 Een familielid
  
 _Elsje is een boeiende, warme vrouw die je steeds verbaast. De jongeren bij TEJO krijgen bij haar een warm onthaal. Ze is empathisch, discreet, heel collegiaal en flexibel. Je kan steeds op haar rekenen om extra in te springen. Het leuke aan Elsje is dat ze vaak met goede ideeën aankomt om de werking efficiënter te maken. Voor ochtendvergaderingen is er soms wel een extra duwtje nodig🙂._  
-Een medevrijwilliger
+Een medevrijwilliger  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nh6e7sIfuHA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>  
 
 
 Contact: elsje.claessens@burgerlijst.be

@@ -27,7 +27,8 @@ _"__Kan het hogere doel voorop stellen__”: Hij weet dat hij om bedrijven en po
 “__Sterk geëngageerd__”: Al van jongs af heeft hij een breed netwerk omdat hij zich in elk engagement voor de volle 200% smijt. Zowel professioneel als in zijn vrije tijd, spendeert hij erg veel tijd aan zijn idealen: mensenrechten, sociaal engagement en milieu.”  
 “__Goedlachs zijn__”: Het is een kwaliteit die naar mijn mening zwaar onderschat is. Vincent kan moeilijke situaties goed ontmijnen door een grappige opmerking. Daarnaast is hij gemakkelijk in de omgang en erg toegankelijk.  
 “__Communicatief erg sterk__”: Vincent is erg gemakkelijk in de omgang. Hij kan goed luisteren, en goed in dialoog treden, ook als het om delicate kwesties gaat._  
-Zus
+Zus  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wEoC4uF0fwM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>  
 
 
 Contact: vincent.bellinkx@burgerlijst.be

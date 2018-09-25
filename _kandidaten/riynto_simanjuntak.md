@@ -21,7 +21,8 @@ _Ik leerde Riynto kennen toen hij juist 20 was geworden, maar toen al viel zijn 
 Echtgenote
 
 _Riynto kan goed luisteren en slaagt er steeds in om de verschillende kanten van een probleem of conflict te zien en te begrijpen. Hij is van nature een rustige en afwachtende persoon en zal nooit ongeinformeerd een standpunt innemen. Hij is ook een goede spreker die zijn punt steeds op duidelijke wijze kan overbrengen._  
-Broer
+Broer  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3LMq8VkXUNI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>  
 
 
 Contact: riynto.simanjuntak@burgerlijst.be  

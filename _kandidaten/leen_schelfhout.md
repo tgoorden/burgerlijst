@@ -24,7 +24,8 @@ _Als collega kennen we Leen als iemand die openstaat voor andere meningen, ieman
 Naaste collega’s
 
 _Altijd betrokken en bezorgd om familieleden, zal helpen als ze kan. De drukte van het gezin en een fulltime job nemen niet weg dat ze de actualiteit van dichtbij opvolgt. Geëngageerd en enthousiast, een voortrekker en ook een doorzetter. Ze kan goed luisteren en situaties uit verschillende perspectieven bekijken. Een verschil kunnen maken met een verbetering voor iedereen is wat haar energie geeft._  
-Echtgenoot
+Echtgenoot  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rv6g2xKLbho" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>  
 
 
 Contact: leen.schelfhout@burgerlijst.be  
