@@ -47,3 +47,5 @@ Burgerlijsten zullen dan ook bijzondere inspanningen doen om de negatieve aspect
 Veel kieslijsten, met name lokale, zijn niet transparant over hoe hun lijsten precies opgemaakt worden. Wanneer de initiatiefnemer echter de lijsttrekker is en bovendien vaak uit een partij komt, is dit meestal geen goed teken qua "burgerlijst-gehalte".
 
 Merk op dat verschillende burgerlijsten gebaseerd zijn op de “Flatpack Democracy” (“Uitklapdemocratie”) aanpak zoals neergeschreven door Peter McFadyen.
+
+Op basis van deze criteria kan je [hier de lijst der burgerlijsten](/lijst_der_burgerlijsten.html) vinden.

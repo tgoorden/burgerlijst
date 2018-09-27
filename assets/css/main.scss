@@ -143,3 +143,20 @@ form p > input {
       padding: 0;
    }
 }
+
+#lijst_der_lijsten {
+  th, td {
+    width: 12.5%;
+    border-bottom: 1px black solid;
+    vertical-align: top;
+  }
+  strong {
+    display: block;
+    width: 100%;
+    color: $white;
+    background-color: $pink;
+  }
+  em {
+    color: $pink;
+  }
+}
