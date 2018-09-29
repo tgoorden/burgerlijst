@@ -26,7 +26,8 @@ _Als u naar Coen kijkt, dan ziet u Coen. Als u naar Coen luistert, dan hoort u C
 Een vriend
  
 _Coen is een heel attente sympathieke gast. Hij heeft echt oprechte interesse in zijn medemens. Hij volgt de actualiteit en vormt zich daar een genuanceerde mening over. Coen ziet het als zijn verantwoordelijkheid om bij te dragen aan de maatschappij en ziet in de Burgerlijst daartoe een serieuze mogelijkheid._  
-Een familielid
+Een familielid  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vzkgJWjn2gk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>  
 
 
 Contact: coen.schuckink.kool@burgerlijst.be
