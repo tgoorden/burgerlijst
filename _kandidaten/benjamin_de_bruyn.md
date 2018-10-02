@@ -27,7 +27,8 @@ Een collega
 
 
 _Sommigen zullen Benjamin mogelijk wat koppig en eigenwijs noemen. Hij is inderdaad niet altijd de gemakkelijkste, al pikt hij van anderen steeds zijn weetje op. Hij volgt hardnekkig zijn eigen pad, vaak wars van wat anderen daarvan denken. Eenmaal een doel voor ogen waarin hij rotsvast gelooft, bijt hij zich daarin vast, gaat hij er ten volle voor. Zijn opleiding, nieuwsgierigheid en gedrevenheid helpen hem bij het volgen van dat pad, en het werkt m.i. aanstekelijk op anderen._  
-Een familielid
+Een familielid  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vnudEWZyrVs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>  
 
 
 Contact: benjamin.de.bruyn@burgerlijst.be
