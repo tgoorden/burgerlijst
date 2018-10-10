@@ -23,7 +23,9 @@ In totaal telden we reeds meer dan 500 kandidaten, waarbij de grote groep "Oxyg√
 | Gent | [Duw Gent](http://duw.gent) | **Nee** | *+-* | *Loting, excl eerste 3* |  | **Direct democratie, loting** |  **Democratische eed**
 | Grobbendonk | [deBurgers](http://deburgers.be) | **Nee** | **Nee** | **Collaboratief** | **Ja** | **Toolbox (Flatpack)** | **Democratisch charter** 
 | Oudsbergen | [B.O.S.](http://www.b-o-s.be) | **Nee** | **Nee** |  | **Ja** | **Toolbox (Flatpack)** | **Democratische eed** 
-| Ternat | [High Five Ternat ("Voor Ternat")](http://www.highfive-ternat.be) | **Nee** | Ja |  | **Ja** | **Burgerraden, online** |  
+| Ottignies-Louvain-La-Neuve | [Kayoux](http://www.kayoux.be) | **Nee** | **Nee** | **Loting** | **Ja** | **Burgerraden** | 
+| Ternat | [High Five Ternat ("Voor Ternat")](http://www.highfive-ternat.be) | **Nee** | Ja |  | **Ja** | **Burgerraden, online** |
+| Mol & Balen | [LP LijstParticipatie](http://www.lijstparticipatie.be) | **Nee** | **Nee** | **Collaboratief** | **Ja** | **Buurtraden, participatieschepen** | 
 | Herentals | [Herentals-Anders (HA)](http://herentals-anders.be/) | **Nee** |  |  |  |  |  
 | Zutendaal | [BurgerZu](https://www.facebook.com/Burgerzu-2101570646751573/) | **Nee** | Ja |  | **Ja** | **Burgerraad** 
 | Nijlen | [Ons.Dorp](http://ons-dorp.be/) | **Nee** |  |  |  | **Burgerraad, online tool** |  
