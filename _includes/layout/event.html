@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="nl">
+
+{% include sections/head.html %}
+
+<body>
+  <div class="container" id="wrapper">
+    <div class="row">
+      <div class="col-sm-12 col-md-3" id="menu">
+        {% include sections/menu.html %}
+      </div>
+      <div class="col-sm-12 col-md-9 regular" id="page">
+        <header class="post-header">
+          <h1 class="post-title">{% if event.title %}{{ event.title }}{% else %}Event:{% endif %}</h1>
+        </header>
+        <article class="post-content">
+          {% if event.description %}
+          <p>{{ event.description | md }}</p>
+          {% endif %}
+          <hr>
+          {% if event.date %}
+          <p><label>Tijdstip:</label> {{ event.date | readableDate }}</p>
+          {% endif %}
+          {% if event.locationName %}
+          <p><label>Locatie:</label><a href={{event.locationURL}} style="text-decoration: none;">
+              {{ event.locationName }}</a></p>
+          {% endif %}
+          {% if event.locationMap %}
+          <iframe src="{{ event.locationMap }}" width="600" height="450" frameborder="0" style="border:0"
+            allowfullscreen></iframe>
+          {% endif %}
+        </article>
+      </div>
+    </div>
+  </div>
+
+  {% include sections/footer.html %}
+
+</body>
+
+
+</html>

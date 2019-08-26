@@ -1,0 +1,38 @@
+<a href="/" alt="Homepagina">
+  <img src="/assets/img/logo.svg" id="logo" alt="Logo Burgerlijst" />
+</a>
+<div id="baseline">
+  <h5>
+    {{ site.description }}
+  </h5>
+</div>
+<div class="social-icons">
+  <ul class="social-icons" style="list-style-type: none; padding-left: 0;">
+    {% for socialLink in site.footerLinks %}
+    <li style="display: inline;">
+      <a href={{socialLink.url}}>
+        <span class="icon icon-social">
+          {% if socialLink.type == 'twitter' %}
+          {% include sections/_twitter.html %}
+          {% endif %}
+          {% if socialLink.type == 'facebook' %}
+          {% include sections/_facebook.html %}
+          {% endif %}
+        </span>
+      </a>
+    </li>
+    {% endfor %}
+  </ul>
+</div>
+<div id="sidemenu" class="hidden-sm-down">
+  {% assign menu_items = site.pages %}
+  <ul class="nav flex-column">
+    {% for page in pages %}
+    {% if page.menuItem == true%}
+    <li class="nav-item">
+      <a class="nav-link" href="{{ page.url }}">{{ page.name }}</a>
+    </li>
+    {% endif %}
+    {% endfor %}
+  </ul>
+</div>
