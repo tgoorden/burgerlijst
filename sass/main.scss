@@ -58,6 +58,9 @@ img#logo {
   }
 }
 
+#kalender {
+  min-height: 92%;
+}
 .calenderTitle {
   text-decoration: underline;
   margin-bottom: -0.5rem;
@@ -166,5 +169,14 @@ form p > input {
   }
   em {
     color: $pink;
+  }
+}
+
+#materiaal {
+  li {
+    padding-bottom: 0.7rem;
+  }
+  h2 {
+    padding-top: 1rem;
   }
 }

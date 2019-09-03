@@ -20,6 +20,8 @@
         <article class="post-content">
           {% if page.content %}
           {{ page.content | md }}
+          {% else %}
+          {{ content | md }}
           {% endif %}
         </article>
 

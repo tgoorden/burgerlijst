@@ -7069,6 +7069,9 @@ img#logo {
   .inverted a {
     color: white; }
 
+#kalender {
+  min-height: 92%; }
+
 .calenderTitle {
   text-decoration: underline;
   margin-bottom: -0.5rem;
@@ -7154,3 +7157,9 @@ form p > input {
 
 #lijst_der_lijsten em {
   color: #e83e8c; }
+
+#materiaal li {
+  padding-bottom: 0.7rem; }
+
+#materiaal h2 {
+  padding-top: 1rem; }
