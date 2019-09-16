@@ -1,0 +1,23 @@
+---
+layout: layout/default
+permalink: /materiaal.html
+---
+
+<div>
+  {{ material.content | md }}
+</div>
+
+<div id="materiaal">
+  {% if material.categories %}
+  {% for category in material.categories %}
+  <h2>{{ category.categoryName }}</h2>
+  {% for material in category.categoryContents %}
+  <li>
+    <a href="{% if material.PDF %}{{ material.PDF }}{% else %}{{ material.image }}{% endif %}">
+      {{ material.linkText }}
+    </a>
+  </li>
+  {% endfor %}
+  {% endfor %}
+  {% endif %}
+</div>

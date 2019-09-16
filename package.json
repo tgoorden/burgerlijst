@@ -1,7 +1,32 @@
 {
+  "name": "eleventy-basic-template",
+  "version": "1.0.0",
+  "description": "basic boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "eleventy-watch": "npx eleventy --watch --serve",
+    "sass": "npx sass-compile",
+    "sass-watch": "npx nodemon",
+    "start": "npm run sass-watch & npm run eleventy-watch",
+    "prod": "cms-sync burgerlijst && npm run start",
+    "dev": "serverless_mongo_URL=mongodb://localhost:3001/meteor npm run prod"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
   "dependencies": {
-    "bootstrap": "4.0.0-beta.2",
-    "jquery": "^3.2.1",
-    "popper.js": "^1.12.3"
+    "eleventy-sass-lambda-layer": "git+ssh://git@github.com/LEFapps/eleventy-sass-lambda-layer.git#semver:^1.4.0",
+    "markdown-it": "^9.0.1",
+    "markdown-it-attrs": "^2.4.1"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^0.7.1",
+    "nodemon": "^1.19.1"
+  },
+  "nodemonConfig": {
+    "watch": "./sass/",
+    "ext": "*.scss",
+    "verbose": true,
+    "exec": "npm run sass"
   }
 }

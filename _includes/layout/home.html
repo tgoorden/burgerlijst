@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="nl">
+{% include sections/head.html %}
+
+<body>
+  <div class="container" id="wrapper">
+    <div class="row">
+      <div class="col-sm-12 col-md-3" id="menu">
+        {% include sections/menu.html %}
+      </div>
+      <div class="col-sm-12 col-md-9">
+        <div class="row">
+          <div class="col-sm-12 col-md-4">
+            {% for item in index.items %}
+            {% if item.mainNav != true %}
+            <div class="{% for look in item.look%}{{ look }} {% endfor%}">
+              <h2>
+                <a href={{ item.href }}>
+                  {{item.name}}
+                </a>
+              </h2>
+            </div>
+            {% endif %}
+            {% endfor %}
+          </div>
+          <div class=" col-sm-12 col-md-8">
+            <div class="row">
+              <div class="col-sm-12 col-md-12" style="height: 315px;">
+                <iframe src="{{index.fbLink}}" width="100%" height="100%"
+                  style="border:none;max-width:560px;max-height:315px" scrolling="no" frameborder="0"
+                  allowTransparency="true" allowFullScreen="true"></iframe>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-sm-12 col-md-6">
+                <div class="regular" id="kalender">
+                  <h2>
+                    <a
+                      href='/kalender.html'>{%if index.calenderTitle %}{{ index.calenderTitle }}:{% else%}Kalender:{% endif %}</a>
+                    {% if index.showEvents == true %}
+                    <ul style="list-style-type: none; padding-left: 0;">
+                      {% for event in events %}
+                      <li>
+                        <h4 class="calenderTitle">
+                          <a href="events/{{ event.file }}.html">
+                            {{ event.title }}
+                          </a>
+                        </h4>
+                        <p class="calenderContent">
+                          <br>
+                          <span>{{ event.date | readableDate }}</span>
+                          <br>
+                          @<a href="{{ event.locationURL }}"
+                            style="text-decoration: underline;">{{ event.locationName }}</a>
+                        </p>
+                      </li>
+                      {% endfor %}
+                    </ul>
+                    {% else %}
+                    <br>
+                    <p class="calenderContent">{{ index.noEvents }}</p>
+                    {% endif %}
+                  </h2>
+                </div>
+              </div>
+              <div class="col-sm-12 col-md-6">
+                {% for item in index.items %}
+                {% if item.mainNav == true %}
+                <div class="{% for look in item.look%}{{ look }} {% endfor%}">
+                  <h2>
+                    <a href={{item.href}}>
+                      {{item.name}}
+                    </a>
+                  </h2>
+                </div>
+                {% endif %}
+                {% endfor %}
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  {% include sections/footer.html %}
+</body>
+
+</html>
